@@ -8,6 +8,7 @@
     "node": ">=20"
   },
   "scripts": {
-    "scrape": "node scraper.js"
+    "scrape": "node scraper.js",
+    "process": "node scripts/process_daily.js"
   }
 }
