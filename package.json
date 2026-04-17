@@ -1,0 +1,13 @@
+{
+  "name": "phd",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Product Hunt Daily scraper via official GraphQL API v2",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scrape": "node scraper.js"
+  }
+}

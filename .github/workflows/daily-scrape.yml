@@ -1,0 +1,47 @@
+name: Daily Product Hunt Scrape
+
+on:
+  schedule:
+    # 16:00 UTC = 09:00 PT (PDT) / 08:00 PT (PST). Runs after PT-midnight
+    # so "yesterday" is the just-completed Product Hunt day.
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'PT date to scrape (YYYY-MM-DD). Leave empty for yesterday.'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ph-daily-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run scraper
+        env:
+          PH_CLIENT_ID: ${{ secrets.PH_CLIENT_ID }}
+          PH_CLIENT_SECRET: ${{ secrets.PH_CLIENT_SECRET }}
+        run: node scraper.js ${{ github.event.inputs.date }}
+
+      - name: Commit data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if git diff --cached --quiet; then
+            echo 'No new data to commit.'
+          else
+            git commit -m "data: scrape ${{ github.event.inputs.date || 'yesterday (PT)' }}"
+            git push
+          fi
