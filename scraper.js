@@ -6,7 +6,7 @@ const API_URL = 'https://api.producthunt.com/v2/api/graphql';
 
 const QUERY = `
 query DailyPosts($postedAfter: DateTime!, $postedBefore: DateTime!, $after: String) {
-  posts(postedAfter: $postedAfter, postedBefore: $postedBefore, order: VOTES, first: 50, after: $after) {
+  posts(postedAfter: $postedAfter, postedBefore: $postedBefore, order: VOTES, first: 20, after: $after) {
     edges {
       node {
         id
@@ -20,12 +20,9 @@ query DailyPosts($postedAfter: DateTime!, $postedBefore: DateTime!, $after: Stri
         commentsCount
         createdAt
         featuredAt
-        reviewsCount
-        reviewsRating
         thumbnail { type url }
-        media { type url videoUrl }
-        topics { edges { node { id name slug } } }
-        makers { id name username headline twitterUsername profileImage }
+        topics(first: 10) { edges { node { id name slug } } }
+        makers { id name username headline twitterUsername }
         productLinks { type url }
       }
     }
