@@ -6843,3 +6843,849 @@
 {"id":"1143637","slug":"forge-design-figma-to-apk-in-minutes","name":"Forge — Design Figma to APK in minutes","date":"2026-05-11","votes":0}
 {"id":"1143638","slug":"spacehub","name":"Spacehub","date":"2026-05-11","votes":0}
 {"id":"1141534","slug":"seedance-2-0-ai-video","name":"Seedance 2.0 AI Video","date":"2026-05-11","votes":0}
+{"id":"1139974","slug":"kelviq-2","name":"Kelviq","date":"2026-05-12","votes":477}
+{"id":"1138787","slug":"open-vibe","name":"Open Vibe","date":"2026-05-12","votes":294}
+{"id":"1142101","slug":"jotform-claude-app","name":"Jotform Claude App","date":"2026-05-12","votes":236}
+{"id":"1142848","slug":"hyperswitch-prism","name":"Hyperswitch Prism","date":"2026-05-12","votes":222}
+{"id":"1144296","slug":"display-dev","name":"display.dev","date":"2026-05-12","votes":172}
+{"id":"1144799","slug":"free-ai-seo-auditor","name":"Free AI SEO Auditor","date":"2026-05-12","votes":156}
+{"id":"1144152","slug":"whale-starts","name":"Whale Starts","date":"2026-05-12","votes":136}
+{"id":"1142241","slug":"heynews","name":"HeyNews","date":"2026-05-12","votes":129}
+{"id":"1144488","slug":"fileflan","name":"FileFlan","date":"2026-05-12","votes":116}
+{"id":"1134105","slug":"tracktalent","name":"TrackTalent","date":"2026-05-12","votes":107}
+{"id":"1144858","slug":"minicpm-v-4-6-7","name":"MiniCPM-V 4.6","date":"2026-05-12","votes":100}
+{"id":"1144389","slug":"knooth","name":"knooth","date":"2026-05-12","votes":97}
+{"id":"1143628","slug":"habitvs","name":"Habitvs","date":"2026-05-12","votes":96}
+{"id":"1144359","slug":"keeby-for-windows","name":"Keeby for Windows","date":"2026-05-12","votes":95}
+{"id":"1144406","slug":"deepframe","name":"DeepFrame","date":"2026-05-12","votes":91}
+{"id":"1143972","slug":"hopper-5","name":"Hopper","date":"2026-05-12","votes":91}
+{"id":"1144683","slug":"whirr-2","name":"Whirr","date":"2026-05-12","votes":88}
+{"id":"1143850","slug":"contentpilots","name":"ContentPilots","date":"2026-05-12","votes":84}
+{"id":"1143081","slug":"vexilo","name":"Vexilo","date":"2026-05-12","votes":84}
+{"id":"1117505","slug":"seer-platform","name":"Seer Platform","date":"2026-05-12","votes":82}
+{"id":"1137819","slug":"zubhai","name":"zubhai","date":"2026-05-12","votes":77}
+{"id":"1140512","slug":"long-horizon","name":"Long Horizon","date":"2026-05-12","votes":75}
+{"id":"1121049","slug":"hackerden","name":"hackerDen","date":"2026-05-12","votes":75}
+{"id":"1144241","slug":"tabgroup-vault","name":"TabGroup Vault","date":"2026-05-12","votes":75}
+{"id":"1144104","slug":"pixcode","name":"Pixcode","date":"2026-05-12","votes":74}
+{"id":"1144129","slug":"emailtemple","name":"EmailTemple","date":"2026-05-12","votes":74}
+{"id":"1139840","slug":"musicminutes","name":"MusicMinutes","date":"2026-05-12","votes":73}
+{"id":"1144778","slug":"prism-protocol","name":"Prism protocol","date":"2026-05-12","votes":72}
+{"id":"1144214","slug":"vko1","name":"VKO1","date":"2026-05-12","votes":71}
+{"id":"1110658","slug":"synci","name":"Synci","date":"2026-05-12","votes":71}
+{"id":"1122747","slug":"arkad-wallet","name":"ARKAD Wallet","date":"2026-05-12","votes":70}
+{"id":"1143615","slug":"klyxshot","name":"Klyxshot","date":"2026-05-12","votes":70}
+{"id":"1144405","slug":"khaos-brain","name":"Khaos Brain","date":"2026-05-12","votes":70}
+{"id":"1144658","slug":"whisper-island-by-coddo","name":"Whisper Island by Coddo","date":"2026-05-12","votes":69}
+{"id":"1143475","slug":"auvylo","name":"Auvylo","date":"2026-05-12","votes":68}
+{"id":"1140998","slug":"devkat","name":"Devkat","date":"2026-05-12","votes":68}
+{"id":"1143900","slug":"my-ai-agent","name":"MY AI Agent","date":"2026-05-12","votes":64}
+{"id":"1144840","slug":"bouquin-ink","name":"Bouquin & Ink","date":"2026-05-12","votes":64}
+{"id":"1135155","slug":"prometai-entrepreneur-journey","name":"PrometAI - Entrepreneur Journey","date":"2026-05-12","votes":58}
+{"id":"1144705","slug":"handinger-2","name":"Handinger","date":"2026-05-12","votes":22}
+{"id":"1143221","slug":"urldn","name":"URLdn","date":"2026-05-12","votes":18}
+{"id":"1144935","slug":"carbon-voice","name":"Carbon Voice","date":"2026-05-12","votes":13}
+{"id":"1142335","slug":"jetti-3","name":"Jetti","date":"2026-05-12","votes":12}
+{"id":"1140291","slug":"resenix","name":"Resenix","date":"2026-05-12","votes":12}
+{"id":"1128526","slug":"kommon-poll","name":"Kommon Poll","date":"2026-05-12","votes":12}
+{"id":"1144784","slug":"jondax-by-jonda-health","name":"JondaX by Jonda Health","date":"2026-05-12","votes":12}
+{"id":"1124114","slug":"omniflow-4","name":"Omniflow","date":"2026-05-12","votes":12}
+{"id":"1144033","slug":"delulu-radar","name":"Delulu Radar","date":"2026-05-12","votes":12}
+{"id":"1141309","slug":"reddit-downloader-2","name":"Reddit Downloader","date":"2026-05-12","votes":11}
+{"id":"1144786","slug":"agentfirst","name":"AgentFirst","date":"2026-05-12","votes":11}
+{"id":"1144950","slug":"financialaha-ultimate-spreadsheets","name":"FinancialAha! Ultimate Spreadsheets","date":"2026-05-12","votes":11}
+{"id":"1144142","slug":"linkedresume","name":"LinkedResume","date":"2026-05-12","votes":10}
+{"id":"1143550","slug":"flxbl-dev","name":"FLXBL.dev","date":"2026-05-12","votes":10}
+{"id":"1049404","slug":"docsai","name":"DocsAI ","date":"2026-05-12","votes":10}
+{"id":"1132862","slug":"leafmarker","name":"LeafMarker","date":"2026-05-12","votes":10}
+{"id":"1144810","slug":"couplewink","name":"Couplewink","date":"2026-05-12","votes":9}
+{"id":"1144196","slug":"geo-audit-2","name":"GEO Audit","date":"2026-05-12","votes":9}
+{"id":"1141326","slug":"photovibe","name":"PhotoVibe","date":"2026-05-12","votes":9}
+{"id":"1144761","slug":"new-rocket-copilot-experience","name":"New Rocket Copilot® experience","date":"2026-05-12","votes":9}
+{"id":"1141276","slug":"kajabi-video-downloader","name":"Kajabi Video Downloader","date":"2026-05-12","votes":8}
+{"id":"1144384","slug":"reclaim-your-mind","name":"Reclaim Your Mind","date":"2026-05-12","votes":8}
+{"id":"1144365","slug":"testflow-ai","name":"TestFlow AI","date":"2026-05-12","votes":8}
+{"id":"1141496","slug":"formgrid","name":"Formgrid","date":"2026-05-12","votes":8}
+{"id":"1144859","slug":"personal-trainer-your-gym-log","name":"Personal Trainer - Your Gym Log","date":"2026-05-12","votes":8}
+{"id":"1144530","slug":"chomi","name":"Chomi","date":"2026-05-12","votes":8}
+{"id":"1135459","slug":"arc-relay","name":"Arc Relay","date":"2026-05-12","votes":8}
+{"id":"1130690","slug":"sentrix-shield","name":"Sentrix Shield","date":"2026-05-12","votes":8}
+{"id":"1142889","slug":"secursus-shipping-insurance","name":"Secursus Shipping Insurance","date":"2026-05-12","votes":8}
+{"id":"1143307","slug":"cypherkeep-credential-manager-for-mac","name":"CypherKeep — Credential Manager for Mac","date":"2026-05-12","votes":8}
+{"id":"1143330","slug":"ktext","name":"KText ","date":"2026-05-12","votes":8}
+{"id":"1144552","slug":"resumiq-2","name":"Resumiq","date":"2026-05-12","votes":8}
+{"id":"1144483","slug":"mimik-auto-capture-browser-workflows","name":"Mimik: auto-capture browser workflows","date":"2026-05-12","votes":8}
+{"id":"1142411","slug":"lazynote","name":"LazyNote","date":"2026-05-12","votes":7}
+{"id":"1141622","slug":"qrype","name":"Qrype","date":"2026-05-12","votes":7}
+{"id":"1144881","slug":"fourcasa","name":"FourCasa","date":"2026-05-12","votes":7}
+{"id":"1144471","slug":"finance-close-command-center","name":"Finance Close Command Center","date":"2026-05-12","votes":6}
+{"id":"1142110","slug":"hybrix-lab","name":"Hybrix Lab","date":"2026-05-12","votes":6}
+{"id":"1143743","slug":"qhound","name":"Qhound","date":"2026-05-12","votes":6}
+{"id":"1143317","slug":"oss-discovery","name":"OSS Discovery","date":"2026-05-12","votes":6}
+{"id":"1136831","slug":"minidocs","name":"Minidocs","date":"2026-05-12","votes":6}
+{"id":"1141094","slug":"free-apple-notes-exporter","name":"Free Apple Notes Exporter","date":"2026-05-12","votes":6}
+{"id":"1142589","slug":"initdesk","name":"initdesk","date":"2026-05-12","votes":6}
+{"id":"1140336","slug":"free-2-minutes-meta-ads-audit","name":"Free 2 Minutes Meta Ads Audit","date":"2026-05-12","votes":6}
+{"id":"1143782","slug":"stack-graveyard","name":"Stack Graveyard","date":"2026-05-12","votes":6}
+{"id":"1142429","slug":"pnlnote-today","name":"pnlnote.today","date":"2026-05-12","votes":6}
+{"id":"1144423","slug":"docmetrics","name":"DocMetrics","date":"2026-05-12","votes":6}
+{"id":"1144462","slug":"renters-rights-2","name":"Renters Rights","date":"2026-05-12","votes":5}
+{"id":"1143437","slug":"folioflux-2","name":"FolioFlux","date":"2026-05-12","votes":5}
+{"id":"1132560","slug":"conduital-gtd-meets-momentum-scoring","name":"Conduital — GTD meets momentum scoring","date":"2026-05-12","votes":5}
+{"id":"1144897","slug":"helpdesk-ai-2","name":"helpdesk.ai","date":"2026-05-12","votes":5}
+{"id":"1140604","slug":"readtube-2","name":"ReadTube","date":"2026-05-12","votes":5}
+{"id":"1141190","slug":"cerememory","name":"Cerememory","date":"2026-05-12","votes":5}
+{"id":"1144726","slug":"winumu","name":"Winumu","date":"2026-05-12","votes":5}
+{"id":"1036922","slug":"tutorhail","name":"TutorHail","date":"2026-05-12","votes":5}
+{"id":"1137432","slug":"nextcv-2","name":"NextCV","date":"2026-05-12","votes":5}
+{"id":"1144185","slug":"programo","name":"Programo","date":"2026-05-12","votes":4}
+{"id":"1143663","slug":"droova","name":"Droova","date":"2026-05-12","votes":4}
+{"id":"1139612","slug":"streamhopper","name":"StreamHopper","date":"2026-05-12","votes":4}
+{"id":"1144115","slug":"tetrees-ai-code-exchange-with-agents","name":"Tetrees AI - Code Exchange with Agents","date":"2026-05-12","votes":4}
+{"id":"1144403","slug":"meetping","name":"MeetPing","date":"2026-05-12","votes":4}
+{"id":"1142794","slug":"flowsnap-never-lose-your-dev-flow","name":"FlowSnap — Never Lose Your Dev Flow","date":"2026-05-12","votes":4}
+{"id":"1144721","slug":"tones-3","name":"Tones","date":"2026-05-12","votes":4}
+{"id":"1143202","slug":"lunia-stories-ai-bedtime-storyteller","name":"Lunia Stories: AI Bedtime Storyteller","date":"2026-05-12","votes":4}
+{"id":"1144685","slug":"llm-eval-suite","name":"LLM Eval Suite","date":"2026-05-12","votes":4}
+{"id":"1137849","slug":"royal-access-accessibility-plugin","name":"Royal Access- Accessibility Plugin","date":"2026-05-12","votes":4}
+{"id":"1144116","slug":"youtube-to-transcript-4","name":"YouTube to Transcript","date":"2026-05-12","votes":4}
+{"id":"1144272","slug":"fractionals","name":"Fractionals","date":"2026-05-12","votes":4}
+{"id":"1144864","slug":"deskepty","name":"Deskepty","date":"2026-05-12","votes":4}
+{"id":"1143978","slug":"genos","name":"Genos","date":"2026-05-12","votes":4}
+{"id":"1144777","slug":"sumyfi-your-financial-companion","name":"Sumyfi - Your Financial Companion","date":"2026-05-12","votes":4}
+{"id":"1142398","slug":"clinch-6","name":"Clinch","date":"2026-05-12","votes":4}
+{"id":"1144933","slug":"trendzspot-ai","name":"Trendzspot AI","date":"2026-05-12","votes":4}
+{"id":"1142080","slug":"algoshop-ai-sales-chatbot","name":"Algoshop AI Sales Chatbot","date":"2026-05-12","votes":4}
+{"id":"1119793","slug":"suprawall","name":"SupraWall ","date":"2026-05-12","votes":4}
+{"id":"1144876","slug":"quietpages","name":"Quietpages","date":"2026-05-12","votes":4}
+{"id":"1143682","slug":"pause-app","name":"Pause App","date":"2026-05-12","votes":4}
+{"id":"1144277","slug":"ai-applyd-2","name":"AI Applyd","date":"2026-05-12","votes":4}
+{"id":"1144731","slug":"omentir","name":"Omentir","date":"2026-05-12","votes":4}
+{"id":"1144902","slug":"aak","name":"AAK","date":"2026-05-12","votes":4}
+{"id":"1144696","slug":"answeronvideo","name":"AnswerOnVideo","date":"2026-05-12","votes":4}
+{"id":"1144742","slug":"rezumio","name":"Rezumio","date":"2026-05-12","votes":4}
+{"id":"1142557","slug":"elokencia-3","name":"Elokencia","date":"2026-05-12","votes":4}
+{"id":"1144869","slug":"little-hilbert-s-hotel","name":"Little Hilbert's Hotel","date":"2026-05-12","votes":4}
+{"id":"1120422","slug":"thekrew-ai","name":"theKrew.ai","date":"2026-05-12","votes":4}
+{"id":"1144456","slug":"apphalt-2","name":"AppHalt","date":"2026-05-12","votes":4}
+{"id":"1141429","slug":"mondevisai","name":"MonDevisAI","date":"2026-05-12","votes":4}
+{"id":"1144086","slug":"solo-os-2","name":"Solo OS","date":"2026-05-12","votes":4}
+{"id":"1142665","slug":"proposalai-2","name":"ProposalAI","date":"2026-05-12","votes":3}
+{"id":"1143702","slug":"linkedin-game-solver","name":"LinkedIn Game Solver","date":"2026-05-12","votes":3}
+{"id":"1144323","slug":"numerati","name":"Numerati","date":"2026-05-12","votes":3}
+{"id":"1144862","slug":"arionis","name":"Arionis","date":"2026-05-12","votes":3}
+{"id":"1144855","slug":"speakup-public-speaking-coach","name":"SpeakUp: Public Speaking Coach","date":"2026-05-12","votes":3}
+{"id":"1144887","slug":"biddie","name":"Biddie","date":"2026-05-12","votes":3}
+{"id":"1126293","slug":"vmco","name":"VMCO","date":"2026-05-12","votes":3}
+{"id":"1144220","slug":"fablog","name":"FabLog","date":"2026-05-12","votes":3}
+{"id":"1141490","slug":"helm-16c84844-1541-4814-bc10-249165cecfce","name":"Helm","date":"2026-05-12","votes":3}
+{"id":"1143056","slug":"aurum-3","name":"Aurum","date":"2026-05-12","votes":3}
+{"id":"1142329","slug":"phosphor-3","name":"Phosphor","date":"2026-05-12","votes":3}
+{"id":"1140837","slug":"aiq-learn-ai-prompting","name":"AiQ: Learn AI Prompting","date":"2026-05-12","votes":3}
+{"id":"1141795","slug":"ai-birth-certificates","name":"AI Birth Certificates","date":"2026-05-12","votes":3}
+{"id":"1142660","slug":"susan-by-vantagepoint-networks","name":"Susan by VantagePoint Networks","date":"2026-05-12","votes":3}
+{"id":"1144673","slug":"film-cue","name":"Film Cue","date":"2026-05-12","votes":3}
+{"id":"1144133","slug":"designerflow","name":"DesignerFlow","date":"2026-05-12","votes":3}
+{"id":"1140352","slug":"vmms","name":"VMMS","date":"2026-05-12","votes":3}
+{"id":"1144460","slug":"brandtrainer-ai","name":"BRANDTRAINER.AI","date":"2026-05-12","votes":3}
+{"id":"1144539","slug":"synli-ai","name":"Synli.ai","date":"2026-05-12","votes":3}
+{"id":"1144280","slug":"optimatio-io-2","name":"Optimatio.io","date":"2026-05-12","votes":3}
+{"id":"1125378","slug":"isotrax","name":"Isotrax","date":"2026-05-12","votes":3}
+{"id":"1144594","slug":"vidnest-2","name":"VidNest","date":"2026-05-12","votes":3}
+{"id":"1144207","slug":"flowna","name":"Flowna","date":"2026-05-12","votes":3}
+{"id":"1139145","slug":"precog","name":"Precog","date":"2026-05-12","votes":3}
+{"id":"1142191","slug":"helpdeskpicker","name":"HelpDeskPicker","date":"2026-05-12","votes":3}
+{"id":"1144917","slug":"debut-infotech","name":"Debut Infotech","date":"2026-05-12","votes":3}
+{"id":"1142825","slug":"lifepilot-by-innovobit","name":"LifePilot by Innovobit","date":"2026-05-12","votes":3}
+{"id":"1142001","slug":"on-this-day","name":"On This Day","date":"2026-05-12","votes":3}
+{"id":"1143714","slug":"trakup-2","name":"Trakup","date":"2026-05-12","votes":3}
+{"id":"1134759","slug":"voicescale","name":"VoiceScale","date":"2026-05-12","votes":3}
+{"id":"1143762","slug":"colorado-ai-act-readiness-toolkit","name":"Colorado AI Act Readiness Toolkit","date":"2026-05-12","votes":3}
+{"id":"1138211","slug":"stowe","name":"Stowe","date":"2026-05-12","votes":3}
+{"id":"1139096","slug":"docupull-2-0","name":"DocuPull 2.0 ","date":"2026-05-12","votes":3}
+{"id":"1143922","slug":"filingfirehose","name":"FilingFirehose","date":"2026-05-12","votes":3}
+{"id":"1144100","slug":"sunbreak","name":"Sunbreak","date":"2026-05-12","votes":3}
+{"id":"1144838","slug":"agentank","name":"AgenTank","date":"2026-05-12","votes":3}
+{"id":"1132265","slug":"voynex","name":"Voynex","date":"2026-05-12","votes":3}
+{"id":"1144945","slug":"kickoff-calendar","name":"Kickoff Calendar","date":"2026-05-12","votes":3}
+{"id":"1143620","slug":"actionfig-app","name":"actionfig.app","date":"2026-05-12","votes":3}
+{"id":"1144569","slug":"promptcellar","name":"Promptcellar","date":"2026-05-12","votes":3}
+{"id":"1144397","slug":"milliondollar-one","name":"milliondollar.one","date":"2026-05-12","votes":3}
+{"id":"1131831","slug":"askpics-2","name":"AskPics","date":"2026-05-12","votes":3}
+{"id":"1138796","slug":"freetier-sentinel","name":"FreeTier Sentinel","date":"2026-05-12","votes":3}
+{"id":"1138814","slug":"meetwave","name":"MeetWave","date":"2026-05-12","votes":3}
+{"id":"1144916","slug":"my-ai-curator","name":"My AI Curator","date":"2026-05-12","votes":3}
+{"id":"1144801","slug":"typecloak","name":"TypeCloak","date":"2026-05-12","votes":3}
+{"id":"1141447","slug":"basket-list","name":"Basket List","date":"2026-05-12","votes":3}
+{"id":"1144940","slug":"focus-mode-7c8368f5-8b9f-4f42-a2f5-2c224c4e4e42","name":"Focus Mode","date":"2026-05-12","votes":3}
+{"id":"1144800","slug":"animal-friends-os","name":"Animal Friends OS","date":"2026-05-12","votes":3}
+{"id":"1144068","slug":"allrecorder","name":"AllRecorder","date":"2026-05-12","votes":3}
+{"id":"1144657","slug":"pathora-ai-2","name":"Pathora AI","date":"2026-05-12","votes":3}
+{"id":"1142485","slug":"pixair-ai","name":"Pixair AI","date":"2026-05-12","votes":3}
+{"id":"1144845","slug":"studiomi300","name":"StudioMI300","date":"2026-05-12","votes":3}
+{"id":"1140794","slug":"cap-ou-pas-cap","name":"Cap ou pas cap","date":"2026-05-12","votes":3}
+{"id":"1144713","slug":"pandaflow","name":"PandaFlow","date":"2026-05-12","votes":3}
+{"id":"1142359","slug":"breaks-2","name":"Breaks","date":"2026-05-12","votes":3}
+{"id":"1140779","slug":"days-on-earth-doe","name":"Days On Earth  (DOE)","date":"2026-05-12","votes":3}
+{"id":"1132548","slug":"a-better-gift","name":"A Better Gift","date":"2026-05-12","votes":3}
+{"id":"1143895","slug":"talkpulse-2","name":"TalkPulse","date":"2026-05-12","votes":3}
+{"id":"1144660","slug":"gifting","name":"Gifting","date":"2026-05-12","votes":3}
+{"id":"1144895","slug":"detailed-seo-audit-extension","name":"Detailed SEO Audit Extension","date":"2026-05-12","votes":3}
+{"id":"1144383","slug":"pairobot","name":"PaiRobot","date":"2026-05-12","votes":3}
+{"id":"1143658","slug":"rekall-mcp-tools-for-unreal-engine","name":"Rekall MCP Tools for Unreal Engine","date":"2026-05-12","votes":3}
+{"id":"1139700","slug":"landing-spot-ai","name":"Landing Spot AI ","date":"2026-05-12","votes":3}
+{"id":"1144908","slug":"freeviralkit","name":"FreeViralKit","date":"2026-05-12","votes":3}
+{"id":"1142432","slug":"drawing-agent","name":"Drawing Agent","date":"2026-05-12","votes":3}
+{"id":"1142503","slug":"rawlens","name":"RawLens","date":"2026-05-12","votes":3}
+{"id":"1144294","slug":"mediaoptim-mobile","name":"MediaOptim Mobile","date":"2026-05-12","votes":3}
+{"id":"1138747","slug":"job-security-meter","name":"Job Security Meter","date":"2026-05-12","votes":3}
+{"id":"1144589","slug":"wingman-the-operating-system-for-sales","name":"Wingman — The operating system for sales","date":"2026-05-12","votes":3}
+{"id":"1143193","slug":"app10x","name":"app10x","date":"2026-05-12","votes":3}
+{"id":"1144440","slug":"babel-nexus-index","name":"Babel Nexus Index","date":"2026-05-12","votes":3}
+{"id":"1136627","slug":"sessionplan","name":"Sessionplan","date":"2026-05-12","votes":3}
+{"id":"1143781","slug":"jsonbloom","name":"jsonbloom","date":"2026-05-12","votes":3}
+{"id":"1143793","slug":"heimdall-mcp","name":"Heimdall MCP","date":"2026-05-12","votes":3}
+{"id":"1144702","slug":"comparexy","name":"CompareXY","date":"2026-05-12","votes":3}
+{"id":"1143379","slug":"mockie","name":"Mockie","date":"2026-05-12","votes":3}
+{"id":"1144684","slug":"nupcio","name":"Nupcio","date":"2026-05-12","votes":3}
+{"id":"1139486","slug":"repotopitch","name":"RepoToPitch","date":"2026-05-12","votes":2}
+{"id":"1142172","slug":"preppanel","name":"PrepPanel","date":"2026-05-12","votes":2}
+{"id":"1141649","slug":"prabzo","name":"Prabzo","date":"2026-05-12","votes":2}
+{"id":"1098695","slug":"stockprinter","name":"StockPrinter","date":"2026-05-12","votes":2}
+{"id":"1144587","slug":"polymind-2","name":"Polymind","date":"2026-05-12","votes":2}
+{"id":"1140186","slug":"holidaytrip","name":"HolidayTrip","date":"2026-05-12","votes":2}
+{"id":"1144543","slug":"secureauth-enterprise-wordpress-2fa","name":"SecureAuth — Enterprise WordPress 2FA","date":"2026-05-12","votes":2}
+{"id":"1144851","slug":"hyperwords","name":"HyperWords","date":"2026-05-12","votes":2}
+{"id":"1143910","slug":"axiom-ui","name":"Axiom UI","date":"2026-05-12","votes":2}
+{"id":"1144424","slug":"reviewsuite","name":"Reviewsuite","date":"2026-05-12","votes":2}
+{"id":"1144555","slug":"eventifyed","name":"Eventifyed","date":"2026-05-12","votes":2}
+{"id":"1144224","slug":"weplanify","name":"WePlanify","date":"2026-05-12","votes":2}
+{"id":"1144806","slug":"blocksyc","name":"Blocksyc","date":"2026-05-12","votes":2}
+{"id":"1144061","slug":"forms-md-for-wordpress","name":"Forms.md for WordPress","date":"2026-05-12","votes":2}
+{"id":"1142151","slug":"heyrepute","name":"HeyRepute","date":"2026-05-12","votes":2}
+{"id":"1142115","slug":"globalutilityhub","name":"GlobalUtilityHub","date":"2026-05-12","votes":2}
+{"id":"1143652","slug":"what-s-your-ai-bill","name":"What's Your AI Bill?","date":"2026-05-12","votes":2}
+{"id":"1144177","slug":"career-ai-copilot","name":"Career AI Copilot","date":"2026-05-12","votes":2}
+{"id":"1144138","slug":"genosight","name":"GenoSight","date":"2026-05-12","votes":2}
+{"id":"1140065","slug":"fynix-co-banking","name":"Fynix Co-Banking","date":"2026-05-12","votes":2}
+{"id":"1144404","slug":"docupotion","name":"DocuPotion","date":"2026-05-12","votes":2}
+{"id":"1144675","slug":"meetmorph","name":"MeetMorph","date":"2026-05-12","votes":2}
+{"id":"1144326","slug":"do-list-100","name":"Do List 100","date":"2026-05-12","votes":2}
+{"id":"1144842","slug":"heist","name":"Heist.","date":"2026-05-12","votes":2}
+{"id":"1094870","slug":"gcompte-for-ios","name":"gCompté for iOS","date":"2026-05-12","votes":2}
+{"id":"1144516","slug":"spark-content-engine","name":"Spark-Content Engine","date":"2026-05-12","votes":2}
+{"id":"1144814","slug":"resumeforge-5","name":"ResumeForge","date":"2026-05-12","votes":2}
+{"id":"1143390","slug":"proofkit","name":"ProofKit","date":"2026-05-12","votes":2}
+{"id":"1142669","slug":"radshot-pro","name":"RadShot Pro","date":"2026-05-12","votes":2}
+{"id":"1136571","slug":"x-filter-pro","name":"X Filter Pro","date":"2026-05-12","votes":2}
+{"id":"1144072","slug":"chessvc-com-chess-with-voice-chat","name":"ChessVC.com Chess with Voice Chat","date":"2026-05-12","votes":2}
+{"id":"1143106","slug":"vibecast-2","name":"VibeCast","date":"2026-05-12","votes":2}
+{"id":"1144581","slug":"sotto-09fb4c62-4929-4e29-8995-80d4f71151bf","name":"Sotto","date":"2026-05-12","votes":2}
+{"id":"1143860","slug":"challengemate","name":"ChallengeMate","date":"2026-05-12","votes":2}
+{"id":"1143424","slug":"voicer-ai-2","name":"Voicer AI ","date":"2026-05-12","votes":2}
+{"id":"1144949","slug":"oncue-2","name":"OnCue","date":"2026-05-12","votes":2}
+{"id":"1143719","slug":"vget","name":"VGet","date":"2026-05-12","votes":2}
+{"id":"1144843","slug":"free-online-web-tools-for-everyone","name":"Free Online Web Tools for Everyone","date":"2026-05-12","votes":2}
+{"id":"1142744","slug":"ai-mvp-cost-calculator","name":"AI MVP Cost Calculator","date":"2026-05-12","votes":2}
+{"id":"1142251","slug":"circle-crop","name":"Circle Crop","date":"2026-05-12","votes":2}
+{"id":"1142412","slug":"zzpify","name":"ZZPify","date":"2026-05-12","votes":2}
+{"id":"1131470","slug":"promptquill","name":"PromptQuill","date":"2026-05-12","votes":2}
+{"id":"1142388","slug":"faro-insights-shopify-ai-dashboard","name":"Faro Insights - Shopify AI Dashboard","date":"2026-05-12","votes":2}
+{"id":"1144787","slug":"becoming-2","name":"Becoming","date":"2026-05-12","votes":2}
+{"id":"1144464","slug":"content-intelligence-ai-content-eeat","name":"Content Intelligence – AI Content & EEAT","date":"2026-05-12","votes":2}
+{"id":"1142365","slug":"snoozing-it","name":"Snoozing It","date":"2026-05-12","votes":2}
+{"id":"1144265","slug":"f-insights-an-seo-intelligence-engine","name":"F! Insights, an SEO Intelligence Engine","date":"2026-05-12","votes":2}
+{"id":"1143871","slug":"soosooland","name":"수수랜드 Soosooland","date":"2026-05-12","votes":2}
+{"id":"1144586","slug":"sudocu","name":"Sudocu","date":"2026-05-12","votes":2}
+{"id":"1119021","slug":"kenoki","name":"Kenoki","date":"2026-05-12","votes":2}
+{"id":"1143425","slug":"cleanconfirm","name":"CleanConfirm","date":"2026-05-12","votes":2}
+{"id":"1143740","slug":"rewright-ai","name":"Rewright.ai","date":"2026-05-12","votes":2}
+{"id":"1144290","slug":"quickimageresizer-me","name":"quickimageresizer.me","date":"2026-05-12","votes":2}
+{"id":"1144825","slug":"free-api-hub","name":"Free API Hub","date":"2026-05-12","votes":2}
+{"id":"1143935","slug":"smartpdf-organizer","name":"SmartPDF Organizer","date":"2026-05-12","votes":2}
+{"id":"1144020","slug":"drawprompt","name":"DrawPrompt","date":"2026-05-12","votes":2}
+{"id":"1140094","slug":"dotsleep","name":"DotSleep","date":"2026-05-12","votes":2}
+{"id":"1144037","slug":"collectform","name":"Collectform","date":"2026-05-12","votes":2}
+{"id":"1144490","slug":"trustdebt","name":"TrustDebt","date":"2026-05-12","votes":2}
+{"id":"1144413","slug":"planting-calendar-zones-5-7","name":"Planting Calendar (Zones 5-7)","date":"2026-05-12","votes":2}
+{"id":"1142764","slug":"impactguard","name":"ImpactGuard","date":"2026-05-12","votes":2}
+{"id":"1143337","slug":"ai-tutorium","name":"AI Tutorium","date":"2026-05-12","votes":2}
+{"id":"1144288","slug":"moosely","name":"Moosely","date":"2026-05-12","votes":2}
+{"id":"1140363","slug":"toolvoid","name":"ToolVoid","date":"2026-05-12","votes":2}
+{"id":"1144942","slug":"infinity-dash-jump-fly-race","name":"Infinity Dash: Jump Fly & Race","date":"2026-05-12","votes":2}
+{"id":"1144333","slug":"cvlift","name":"CVLift","date":"2026-05-12","votes":2}
+{"id":"1142973","slug":"404watcher","name":"404Watcher","date":"2026-05-12","votes":2}
+{"id":"1144096","slug":"sqlite-hub","name":"SQLite Hub","date":"2026-05-12","votes":2}
+{"id":"1142624","slug":"elon-mascot","name":"Elon Mascot","date":"2026-05-12","votes":2}
+{"id":"1142144","slug":"uk-armed-forces-help-to-buy-calculator","name":"Uk Armed Forces Help to Buy Calculator","date":"2026-05-12","votes":2}
+{"id":"1144182","slug":"puffercut","name":"PufferCut","date":"2026-05-12","votes":2}
+{"id":"1144266","slug":"pixxle-webguard","name":"Pixxle WebGuard","date":"2026-05-12","votes":2}
+{"id":"1144937","slug":"waste-tire-baler-machine","name":"Waste Tire Baler Machine","date":"2026-05-12","votes":2}
+{"id":"1144695","slug":"toolchat-2","name":"Toolchat","date":"2026-05-12","votes":2}
+{"id":"1143778","slug":"nuzzo","name":"Nuzzo","date":"2026-05-12","votes":2}
+{"id":"1143812","slug":"afritongues","name":"AfriTongues","date":"2026-05-12","votes":2}
+{"id":"1139472","slug":"vennio","name":"Vennio","date":"2026-05-12","votes":2}
+{"id":"1144680","slug":"remotera-a-remote-access-utility","name":"Remotera - a remote access utility","date":"2026-05-12","votes":2}
+{"id":"1144275","slug":"ueg","name":"UEG","date":"2026-05-12","votes":2}
+{"id":"1141280","slug":"clientflow-crm","name":"ClientFlow CRM","date":"2026-05-12","votes":2}
+{"id":"1138026","slug":"fastai-health-coach","name":"FastAI Health Coach","date":"2026-05-12","votes":2}
+{"id":"1137216","slug":"classrec","name":"ClassRec","date":"2026-05-12","votes":2}
+{"id":"1143410","slug":"zency","name":"Zency","date":"2026-05-12","votes":2}
+{"id":"1144322","slug":"vulcanizare-mobila","name":"Vulcanizare Mobilă","date":"2026-05-12","votes":2}
+{"id":"1144739","slug":"abbix-tools","name":"Abbix Tools","date":"2026-05-12","votes":2}
+{"id":"1144195","slug":"ocrconvert","name":"OCRConvert","date":"2026-05-12","votes":2}
+{"id":"1144299","slug":"athen","name":"Athen","date":"2026-05-12","votes":2}
+{"id":"1144028","slug":"storm-6","name":"Storm","date":"2026-05-12","votes":2}
+{"id":"1144305","slug":"palettegen-by-codexa","name":"PaletteGen by Codexa","date":"2026-05-12","votes":2}
+{"id":"1144781","slug":"deeperai","name":"DeeperAI","date":"2026-05-12","votes":2}
+{"id":"1144139","slug":"veritas-a-world-that-learns-from-you","name":"VERITAS — A World That Learns From You","date":"2026-05-12","votes":2}
+{"id":"1144853","slug":"tegmix","name":"Tegmix","date":"2026-05-12","votes":2}
+{"id":"1144727","slug":"webspec-ai","name":"WebSpec AI","date":"2026-05-12","votes":2}
+{"id":"1144612","slug":"tryscrubly-com","name":"tryscrubly.com","date":"2026-05-12","votes":2}
+{"id":"1144880","slug":"resto","name":"Resto","date":"2026-05-12","votes":2}
+{"id":"1142833","slug":"tryonehub","name":"TryOneHub","date":"2026-05-12","votes":2}
+{"id":"1144757","slug":"dataradb","name":"DataraDB","date":"2026-05-12","votes":2}
+{"id":"1142509","slug":"ootworacle","name":"OOTWOracle","date":"2026-05-12","votes":2}
+{"id":"1142237","slug":"driftless-3","name":"DriftLess","date":"2026-05-12","votes":2}
+{"id":"1144063","slug":"iam2rich","name":"IAM2RICH","date":"2026-05-12","votes":2}
+{"id":"1144485","slug":"macmind","name":"MacMind","date":"2026-05-12","votes":2}
+{"id":"1133094","slug":"dokuscan","name":"DokuScan","date":"2026-05-12","votes":2}
+{"id":"1144434","slug":"recallyo-turn-notes-into-exam-questions","name":"Recallyo -Turn Notes into Exam Questions","date":"2026-05-12","votes":2}
+{"id":"1144049","slug":"aruvix","name":"Aruvix","date":"2026-05-12","votes":2}
+{"id":"1139814","slug":"eleve-emporium-ai-job-application-suite","name":"Élève Emporium—AI Job Application Suite","date":"2026-05-12","votes":2}
+{"id":"1139153","slug":"stingwave","name":"Stingwave","date":"2026-05-12","votes":2}
+{"id":"1144250","slug":"salamma","name":"Salamma","date":"2026-05-12","votes":2}
+{"id":"1144716","slug":"screener-ai-linkedin-real-time-data","name":"Screener AI (Linkedin real-time data)","date":"2026-05-12","votes":2}
+{"id":"1143653","slug":"conformdata","name":"ConformData","date":"2026-05-12","votes":2}
+{"id":"1144422","slug":"takezerohq","name":"TakeZeroHQ","date":"2026-05-12","votes":2}
+{"id":"1143212","slug":"settliowise","name":"SettlioWise","date":"2026-05-12","votes":2}
+{"id":"1144451","slug":"nexuself-2","name":"NexuSelf","date":"2026-05-12","votes":2}
+{"id":"1141788","slug":"memoras-2","name":"Memoras","date":"2026-05-12","votes":2}
+{"id":"1143803","slug":"good-morning-co","name":"Good Morning Co.","date":"2026-05-12","votes":2}
+{"id":"1133208","slug":"vaultzi","name":"Vaultzi","date":"2026-05-12","votes":2}
+{"id":"1144604","slug":"clean-outreach-lists-automatically","name":"Clean Outreach Lists Automatically","date":"2026-05-12","votes":2}
+{"id":"1144767","slug":"selecta-2","name":"Selecta","date":"2026-05-12","votes":2}
+{"id":"1140664","slug":"agent-stack","name":"Agent Stack","date":"2026-05-12","votes":2}
+{"id":"1144566","slug":"livelli-ai","name":"Livelli AI","date":"2026-05-12","votes":2}
+{"id":"1144907","slug":"whatsapp-ai-asistant","name":"Whatsapp Ai Asistant","date":"2026-05-12","votes":2}
+{"id":"1144562","slug":"content-repurposing-engine","name":"Content Repurposing Engine","date":"2026-05-12","votes":2}
+{"id":"1144316","slug":"build-your-tools-on-your-stack","name":"Build your tools on your stack","date":"2026-05-12","votes":2}
+{"id":"1139593","slug":"harbour-ai","name":"HARBOUR-AI","date":"2026-05-12","votes":2}
+{"id":"1144439","slug":"google-review-calculator","name":"Google Review Calculator","date":"2026-05-12","votes":2}
+{"id":"1143869","slug":"swarmtrade-agent-to-agent-commerce","name":"SwarmTrade: Agent-to-Agent Commerce","date":"2026-05-12","votes":2}
+{"id":"1144387","slug":"fulcru","name":"Fulcru","date":"2026-05-12","votes":2}
+{"id":"1143356","slug":"buildbane","name":"BuildBane","date":"2026-05-12","votes":2}
+{"id":"1143430","slug":"splytio","name":"Splytio","date":"2026-05-12","votes":2}
+{"id":"1143937","slug":"salespulse-2","name":"SalesPulse","date":"2026-05-12","votes":2}
+{"id":"1142755","slug":"colorsense","name":"ColorSense","date":"2026-05-12","votes":2}
+{"id":"1121486","slug":"wms-360","name":"WMS 360","date":"2026-05-12","votes":2}
+{"id":"1121227","slug":"cladai","name":"CladAi","date":"2026-05-12","votes":2}
+{"id":"1144414","slug":"frely","name":"Frely","date":"2026-05-12","votes":2}
+{"id":"1143018","slug":"focusflow-16","name":"FocusFlow","date":"2026-05-12","votes":2}
+{"id":"1144279","slug":"nomad-translator","name":"Nomad Translator","date":"2026-05-12","votes":2}
+{"id":"1144134","slug":"lanesra","name":"Lanesra","date":"2026-05-12","votes":2}
+{"id":"1144074","slug":"mig-immigration-calc-pr-nat-visa","name":"MIG Immigration Calc (PR NAT Visa) ","date":"2026-05-12","votes":2}
+{"id":"1124292","slug":"cuplido","name":"Cuplido","date":"2026-05-12","votes":2}
+{"id":"1144834","slug":"found-5","name":"Found","date":"2026-05-12","votes":2}
+{"id":"1108062","slug":"flowcircle","name":"FlowCircle","date":"2026-05-12","votes":2}
+{"id":"1144856","slug":"glaze-over","name":"Glaze Over","date":"2026-05-12","votes":2}
+{"id":"1143139","slug":"xaloia-ai","name":"Xaloia AI","date":"2026-05-12","votes":2}
+{"id":"1144535","slug":"packwalked","name":"PackWalked","date":"2026-05-12","votes":2}
+{"id":"1136927","slug":"novel-mage","name":"Novel Mage","date":"2026-05-12","votes":2}
+{"id":"1143301","slug":"quailsales","name":"QuailSales","date":"2026-05-12","votes":2}
+{"id":"1144364","slug":"typoscale","name":"Typoscale","date":"2026-05-12","votes":2}
+{"id":"1144221","slug":"meriono","name":"Meriono","date":"2026-05-12","votes":2}
+{"id":"1144268","slug":"beattribe","name":"BeatTribe","date":"2026-05-12","votes":2}
+{"id":"1134760","slug":"worldsearch","name":"WorldSearch","date":"2026-05-12","votes":2}
+{"id":"1144153","slug":"square-face-icon-generato","name":"Square Face Icon Generato","date":"2026-05-12","votes":2}
+{"id":"1144400","slug":"exam-prep-2","name":"Exam Prep","date":"2026-05-12","votes":2}
+{"id":"1144648","slug":"tabautopilot","name":"TabAutopilot","date":"2026-05-12","votes":2}
+{"id":"1144090","slug":"flashstacks","name":"FlashStacks","date":"2026-05-12","votes":2}
+{"id":"1139454","slug":"followshop","name":"FollowShop","date":"2026-05-12","votes":2}
+{"id":"1144337","slug":"stocker-21495855-3e03-4662-a2f5-c2ccfbd5d808","name":"Stocker","date":"2026-05-12","votes":2}
+{"id":"1139063","slug":"flashlearnai-flashcards-spaced-recall","name":"FlashLearnAI-Flashcards & Spaced Recall","date":"2026-05-12","votes":2}
+{"id":"1144453","slug":"tonalux","name":"Tonalux","date":"2026-05-12","votes":2}
+{"id":"1143071","slug":"qrcode-gratuit","name":"QRCode Gratuit","date":"2026-05-12","votes":2}
+{"id":"1144714","slug":"asios-rooms","name":"Asios Rooms","date":"2026-05-12","votes":2}
+{"id":"1142834","slug":"memegician","name":"Memegician","date":"2026-05-12","votes":2}
+{"id":"1144459","slug":"stackd-5","name":"Stackd","date":"2026-05-12","votes":2}
+{"id":"1144911","slug":"snapshotai-2","name":"SnapshotAI","date":"2026-05-12","votes":2}
+{"id":"1144812","slug":"serenit","name":"SerenIT","date":"2026-05-12","votes":2}
+{"id":"1142185","slug":"tonesmatch","name":"TonesMatch","date":"2026-05-12","votes":2}
+{"id":"1143676","slug":"geoiphub","name":"GeoIPHub","date":"2026-05-12","votes":2}
+{"id":"1142243","slug":"world-on-time","name":"World on Time","date":"2026-05-12","votes":2}
+{"id":"1144493","slug":"imparable-finance","name":"Imparable Finance","date":"2026-05-12","votes":2}
+{"id":"1144550","slug":"i-t-all","name":"I.T & All","date":"2026-05-12","votes":2}
+{"id":"1144518","slug":"loop-0f2216b6-dc80-4c21-a76e-5015e4f825ad","name":"Loop","date":"2026-05-12","votes":2}
+{"id":"1144484","slug":"coastgolf","name":"CoastGolf ","date":"2026-05-12","votes":2}
+{"id":"1144772","slug":"mythos-0x-forge","name":"Mythos 0X Forge","date":"2026-05-12","votes":2}
+{"id":"1143705","slug":"chessstats-pro","name":"ChessStats Pro","date":"2026-05-12","votes":2}
+{"id":"1143872","slug":"ai-movie-finder-chosy","name":"AI Movie Finder - Chosy","date":"2026-05-12","votes":2}
+{"id":"1144645","slug":"magicticket","name":"MagicTicket","date":"2026-05-12","votes":2}
+{"id":"1144307","slug":"servicepro-landing-kit","name":"ServicePro Landing Kit","date":"2026-05-12","votes":2}
+{"id":"1144429","slug":"zoya-2","name":"Zoya","date":"2026-05-12","votes":2}
+{"id":"1144491","slug":"cash-voyage","name":"Cash&Voyage","date":"2026-05-12","votes":2}
+{"id":"1143856","slug":"recipez","name":"Recipez","date":"2026-05-12","votes":2}
+{"id":"1143175","slug":"domus","name":"Domus","date":"2026-05-12","votes":2}
+{"id":"1144417","slug":"convertermetrics","name":"ConverterMetrics","date":"2026-05-12","votes":2}
+{"id":"1144348","slug":"delibra","name":"Delibra","date":"2026-05-12","votes":2}
+{"id":"1144824","slug":"bootdeploykit","name":"BootDeployKit","date":"2026-05-12","votes":2}
+{"id":"1144764","slug":"nullstep","name":"Nullstep","date":"2026-05-12","votes":2}
+{"id":"1144789","slug":"mathos","name":"mathOS","date":"2026-05-12","votes":2}
+{"id":"1144818","slug":"calla-copper","name":"Calla & Copper","date":"2026-05-12","votes":1}
+{"id":"1143325","slug":"santuario-de-las-4-puertas","name":"Santuario de las 4 puertas","date":"2026-05-12","votes":1}
+{"id":"1144936","slug":"ai-verdict","name":"AI Verdict","date":"2026-05-12","votes":1}
+{"id":"1140798","slug":"prospectlayer","name":"ProspectLayer","date":"2026-05-12","votes":1}
+{"id":"1141135","slug":"petspulse","name":"Petspulse","date":"2026-05-12","votes":1}
+{"id":"1060234","slug":"seo-rocket","name":"SEO Rocket","date":"2026-05-12","votes":1}
+{"id":"1143031","slug":"tradesim-realistic-market-data","name":"TradeSim - Realistic Market Data","date":"2026-05-12","votes":1}
+{"id":"1144832","slug":"gestionx","name":"GestionX ","date":"2026-05-12","votes":1}
+{"id":"1144126","slug":"mild-prompts","name":"Mild Prompts","date":"2026-05-12","votes":1}
+{"id":"1144109","slug":"ai-powered-featured-learning-app","name":"AI-Powered Featured Learning App","date":"2026-05-12","votes":1}
+{"id":"1144741","slug":"the-linkedin-growth-system","name":"The LinkedIn Growth System","date":"2026-05-12","votes":1}
+{"id":"1137708","slug":"onbrdify","name":"Onbrdify","date":"2026-05-12","votes":1}
+{"id":"1144663","slug":"focuslive-2","name":"FocusLive","date":"2026-05-12","votes":1}
+{"id":"1144449","slug":"laravel-brain","name":"Laravel Brain","date":"2026-05-12","votes":1}
+{"id":"1144708","slug":"seo-titan","name":"SEO Titan","date":"2026-05-12","votes":1}
+{"id":"1140646","slug":"hitechies-tools","name":"Hitechies Tools","date":"2026-05-12","votes":1}
+{"id":"1144112","slug":"money-leak-planner-2026","name":"Money Leak Planner 2026","date":"2026-05-12","votes":1}
+{"id":"1144725","slug":"faultline","name":"FaultLine","date":"2026-05-12","votes":1}
+{"id":"1144154","slug":"a1invoice-free-online-invoice-generator","name":"A1invoice: Free Online Invoice Generator","date":"2026-05-12","votes":1}
+{"id":"1144047","slug":"omnichannel-jeweltech-for-jewellers","name":"Omnichannel JewelTech for Jewellers","date":"2026-05-12","votes":1}
+{"id":"1142690","slug":"whoy-fast-privacy-first-web-toolkit","name":"Whoy: Fast, Privacy-First Web Toolkit","date":"2026-05-12","votes":1}
+{"id":"1144549","slug":"mail-flux","name":"Mail Flux","date":"2026-05-12","votes":1}
+{"id":"1140895","slug":"portraitgift","name":"PortraitGift","date":"2026-05-12","votes":1}
+{"id":"1144514","slug":"nucurate-ce40c4d3-faad-47a9-be34-d956a726740b","name":"Nucurate","date":"2026-05-12","votes":1}
+{"id":"1140390","slug":"competeradar-3","name":"CompeteRadar","date":"2026-05-12","votes":1}
+{"id":"1142363","slug":"habit-the-app","name":"Habit The App","date":"2026-05-12","votes":1}
+{"id":"1136733","slug":"google-styler","name":"Google Styler","date":"2026-05-12","votes":1}
+{"id":"1144079","slug":"otifier","name":"Otifier","date":"2026-05-12","votes":1}
+{"id":"1143401","slug":"dowish-ai-social-goal-planner","name":"DoWish: AI Social Goal Planner","date":"2026-05-12","votes":1}
+{"id":"1140201","slug":"dlthub","name":"dltHub","date":"2026-05-12","votes":1}
+{"id":"1144210","slug":"tayari24","name":"Tayari24","date":"2026-05-12","votes":1}
+{"id":"1141052","slug":"docplain-ai","name":"DocPlain AI","date":"2026-05-12","votes":1}
+{"id":"1144796","slug":"drops-codes-share-files-instantly","name":"drops.codes — Share Files. Instantly.","date":"2026-05-12","votes":1}
+{"id":"1144314","slug":"babysteps","name":"babysteps","date":"2026-05-12","votes":1}
+{"id":"1144938","slug":"parceltag","name":"ParcelTag","date":"2026-05-12","votes":1}
+{"id":"1144066","slug":"charios","name":"Charios","date":"2026-05-12","votes":1}
+{"id":"1144023","slug":"roger-hummer-explains-better-planning","name":"Roger Hummer  Explains Better Planning","date":"2026-05-12","votes":1}
+{"id":"1137072","slug":"getemojicon","name":"GetEmojicon","date":"2026-05-12","votes":1}
+{"id":"1144237","slug":"cumulative-frequency-calculator","name":"Cumulative Frequency Calculator","date":"2026-05-12","votes":1}
+{"id":"1144863","slug":"cortexify","name":"Cortexify","date":"2026-05-12","votes":1}
+{"id":"1144556","slug":"tukutema","name":"Tukutema","date":"2026-05-12","votes":1}
+{"id":"1143038","slug":"distance-formula-calculator-ease-tools","name":"Distance Formula Calculator | Ease Tools","date":"2026-05-12","votes":1}
+{"id":"1144503","slug":"deepundress","name":"DeepUndress","date":"2026-05-12","votes":1}
+{"id":"1144533","slug":"revenue-register","name":"Revenue Register","date":"2026-05-12","votes":1}
+{"id":"1141929","slug":"quantrankai","name":"QuantRankAI","date":"2026-05-12","votes":1}
+{"id":"1144651","slug":"urloom-feed-your-focus","name":"urloom · Feed Your Focus","date":"2026-05-12","votes":1}
+{"id":"1144583","slug":"netraocr","name":"NetraOCR","date":"2026-05-12","votes":1}
+{"id":"1140309","slug":"luli-lucid-applikation","name":"Luli - Lucid Applikation","date":"2026-05-12","votes":1}
+{"id":"1144226","slug":"grind-2","name":"Grind","date":"2026-05-12","votes":1}
+{"id":"1144301","slug":"brazilian-pavers","name":"Brazilian Pavers","date":"2026-05-12","votes":1}
+{"id":"1144113","slug":"backgammon-zone","name":"Backgammon Zone","date":"2026-05-12","votes":1}
+{"id":"1144710","slug":"dabadoro-pomodoro-timer","name":"Dabadoro Pomodoro Timer","date":"2026-05-12","votes":1}
+{"id":"1144378","slug":"defitrust","name":"DeFiTrust","date":"2026-05-12","votes":1}
+{"id":"1144943","slug":"dasshai","name":"DasshAI","date":"2026-05-12","votes":1}
+{"id":"1144750","slug":"secondarymission-real-life-rpg","name":"SecondaryMission: Real-Life RPG","date":"2026-05-12","votes":1}
+{"id":"1144282","slug":"promptforge-8","name":"PromptForge","date":"2026-05-12","votes":1}
+{"id":"1144947","slug":"geocities-boilerplate","name":"Geocities Boilerplate","date":"2026-05-12","votes":1}
+{"id":"1143891","slug":"studyflow-lessons-into-study-plans","name":"StudyFlow — Lessons into study plans.","date":"2026-05-12","votes":1}
+{"id":"1144565","slug":"frumle","name":"frumle","date":"2026-05-12","votes":1}
+{"id":"1143865","slug":"cognitive-bias-labs","name":"Cognitive Bias Labs","date":"2026-05-12","votes":1}
+{"id":"1141956","slug":"passportphoto-help","name":"PassportPhoto.help","date":"2026-05-12","votes":1}
+{"id":"1138716","slug":"verifex-3","name":"Verifex","date":"2026-05-12","votes":1}
+{"id":"1144738","slug":"smart-tools-all-in-one-tools","name":"Smart Tools - All in One Tools","date":"2026-05-12","votes":1}
+{"id":"1143146","slug":"spark-news-ai-bias-checker","name":"Spark News - AI Bias Checker","date":"2026-05-12","votes":1}
+{"id":"1144343","slug":"thalamus-ai-3","name":"Thalamus AI","date":"2026-05-12","votes":1}
+{"id":"1144698","slug":"ultradevkit","name":"UltraDevKit","date":"2026-05-12","votes":1}
+{"id":"1142975","slug":"kanbaruu","name":"Kanbaruu","date":"2026-05-12","votes":1}
+{"id":"1142972","slug":"vulko","name":"Vulko","date":"2026-05-12","votes":1}
+{"id":"1144331","slug":"facturita","name":"Facturita","date":"2026-05-12","votes":1}
+{"id":"1144774","slug":"layover-2","name":"Layover+","date":"2026-05-12","votes":1}
+{"id":"1144431","slug":"archivarix-tube-search","name":"Archivarix Tube Search","date":"2026-05-12","votes":1}
+{"id":"1144577","slug":"memora-ai","name":"Memora AI","date":"2026-05-12","votes":1}
+{"id":"1142812","slug":"cosskill","name":"cosskill","date":"2026-05-12","votes":1}
+{"id":"1144590","slug":"project-loveyou","name":"Project LoveYou","date":"2026-05-12","votes":1}
+{"id":"1144478","slug":"slideforge-2","name":"SlideForge","date":"2026-05-12","votes":1}
+{"id":"1144676","slug":"syncagency-2","name":"SyncAgency","date":"2026-05-12","votes":1}
+{"id":"1144036","slug":"temp-contacts","name":"Temp Contacts","date":"2026-05-12","votes":1}
+{"id":"1144523","slug":"zeplioai","name":"ZeplioAI","date":"2026-05-12","votes":1}
+{"id":"1144253","slug":"miro-fertility","name":"Miro Fertility","date":"2026-05-12","votes":1}
+{"id":"1143699","slug":"vault-0cdd39ec-8f8c-4056-9aaf-08906104c63e","name":"Vault","date":"2026-05-12","votes":1}
+{"id":"1144076","slug":"smartcvbuilders","name":"Smartcvbuilders","date":"2026-05-12","votes":1}
+{"id":"1144807","slug":"interviewcandy","name":"InterviewCandy","date":"2026-05-12","votes":1}
+{"id":"1144436","slug":"mesh-forensics","name":"MESH Forensics","date":"2026-05-12","votes":1}
+{"id":"1144954","slug":"addressbox-3","name":"AddressBox","date":"2026-05-12","votes":1}
+{"id":"1144186","slug":"stonks-3","name":"Stonks!","date":"2026-05-12","votes":1}
+{"id":"1144542","slug":"wapipro","name":"WapiPro","date":"2026-05-12","votes":1}
+{"id":"1142731","slug":"rightwheel","name":"RightWheel","date":"2026-05-12","votes":1}
+{"id":"1144563","slug":"lazeefish","name":"LazeeFish","date":"2026-05-12","votes":1}
+{"id":"1140755","slug":"figlet-2","name":"Figlet","date":"2026-05-12","votes":1}
+{"id":"1144571","slug":"skinora","name":"Skinora ","date":"2026-05-12","votes":1}
+{"id":"1141996","slug":"tv-remote-universal-remote-2","name":"TV Remote: Universal Remote","date":"2026-05-12","votes":1}
+{"id":"1144081","slug":"asphalt-calculator-8","name":"Asphalt Calculator","date":"2026-05-12","votes":1}
+{"id":"1144411","slug":"tools2do","name":"Tools2Do","date":"2026-05-12","votes":1}
+{"id":"1144300","slug":"velai","name":"VelAI","date":"2026-05-12","votes":1}
+{"id":"1142279","slug":"bulk-pdf-to-word-converter","name":"Bulk PDF to Word Converter","date":"2026-05-12","votes":1}
+{"id":"1144419","slug":"strengthcode","name":"StrengthCode","date":"2026-05-12","votes":1}
+{"id":"1144828","slug":"wonder-cad","name":"Wonder CAD","date":"2026-05-12","votes":1}
+{"id":"1140097","slug":"hookiq","name":"HOOKiQ","date":"2026-05-12","votes":1}
+{"id":"1144223","slug":"blood-pressure-calculator-tracker","name":"Blood Pressure Calculator & Tracker","date":"2026-05-12","votes":1}
+{"id":"1137133","slug":"ap-scholr","name":"AP Scholr","date":"2026-05-12","votes":1}
+{"id":"1143433","slug":"news-whisper","name":"News Whisper ","date":"2026-05-12","votes":1}
+{"id":"1143921","slug":"dango-4","name":"Dango","date":"2026-05-12","votes":1}
+{"id":"1144374","slug":"makefreecv","name":"MakeFreeCV","date":"2026-05-12","votes":1}
+{"id":"1144059","slug":"biblex","name":"Biblex","date":"2026-05-12","votes":1}
+{"id":"1143581","slug":"olden-project","name":"Olden Project","date":"2026-05-12","votes":1}
+{"id":"1144528","slug":"certsensei-master-your-it-exams","name":"CertSensei: Master your IT Exams","date":"2026-05-12","votes":1}
+{"id":"1144362","slug":"template-registry","name":"Template Registry","date":"2026-05-12","votes":1}
+{"id":"1135936","slug":"shopowl","name":"ShopOwl","date":"2026-05-12","votes":1}
+{"id":"1144213","slug":"leadsave","name":"LeadSave","date":"2026-05-12","votes":1}
+{"id":"1140842","slug":"the-robotic-life","name":"The Robotic Life","date":"2026-05-12","votes":1}
+{"id":"1144273","slug":"kj-to-calories-converter","name":"kJ to Calories Converter","date":"2026-05-12","votes":1}
+{"id":"1144811","slug":"braveheart","name":"BraveHeart","date":"2026-05-12","votes":1}
+{"id":"1144330","slug":"kyabanau-ai","name":"KyaBanau AI","date":"2026-05-12","votes":1}
+{"id":"1141903","slug":"tap-tally-click-counter","name":"Tap Tally - Click Counter","date":"2026-05-12","votes":1}
+{"id":"1144267","slug":"pdfquick-it","name":"PDFQuick.it","date":"2026-05-12","votes":1}
+{"id":"1142691","slug":"cofit","name":"Cofit","date":"2026-05-12","votes":1}
+{"id":"1119638","slug":"walala-ai","name":"walala.ai","date":"2026-05-12","votes":1}
+{"id":"1144441","slug":"contextkit-2","name":"ContextKit","date":"2026-05-12","votes":1}
+{"id":"1144373","slug":"sansthasphere-erp","name":"SansthaSphere ERP","date":"2026-05-12","votes":1}
+{"id":"1144719","slug":"whereismyitem-wimi","name":"Whereismyitem 'Wimi","date":"2026-05-12","votes":1}
+{"id":"1142955","slug":"fasting-tracker-16-8-vrat","name":"Fasting Tracker: 16:8 & Vrat","date":"2026-05-12","votes":1}
+{"id":"1144628","slug":"enterpriseauth-starter","name":"enterpriseauth-starter","date":"2026-05-12","votes":1}
+{"id":"1141421","slug":"previewin","name":"PreviewIn","date":"2026-05-12","votes":1}
+{"id":"1144475","slug":"notiflow","name":"NotiFlow","date":"2026-05-12","votes":1}
+{"id":"1144558","slug":"tilcat-photoedit-studio","name":"TILCAT PhotoEdit Studio ","date":"2026-05-12","votes":1}
+{"id":"1144178","slug":"qality","name":"QAlity","date":"2026-05-12","votes":1}
+{"id":"1144573","slug":"advantage","name":"Advantage","date":"2026-05-12","votes":1}
+{"id":"1144734","slug":"bulkbrains-chaseless","name":"BulkBrains Chaseless","date":"2026-05-12","votes":1}
+{"id":"1144263","slug":"riverodds-free-texas-hold-em-calculator","name":"RiverOdds -Free Texas Hold'em Calculator","date":"2026-05-12","votes":1}
+{"id":"1144752","slug":"scholr-3","name":"Scholr","date":"2026-05-12","votes":1}
+{"id":"1144171","slug":"uae-credit-card-match","name":"UAE Credit Card Match","date":"2026-05-12","votes":1}
+{"id":"1139913","slug":"shoplix","name":"Shoplix","date":"2026-05-12","votes":1}
+{"id":"1144053","slug":"nutrilabel-pro","name":"NutriLabel Pro","date":"2026-05-12","votes":1}
+{"id":"1144932","slug":"nexa-ai-workspace","name":"Nexa AI Workspace","date":"2026-05-12","votes":1}
+{"id":"1144167","slug":"titanium-gold-edge-screen-protector","name":"Titanium Gold Edge Screen Protector","date":"2026-05-12","votes":1}
+{"id":"1144754","slug":"dynamics-2","name":"Dynamics","date":"2026-05-12","votes":1}
+{"id":"1141242","slug":"invoicexml","name":"InvoiceXML","date":"2026-05-12","votes":1}
+{"id":"1144776","slug":"economybot-discord-economy-bot","name":"EconomyBot — Discord Economy Bot","date":"2026-05-12","votes":1}
+{"id":"1142912","slug":"gridinbox","name":"Gridinbox","date":"2026-05-12","votes":1}
+{"id":"1144386","slug":"airbnb-bad-guest-guard","name":"Airbnb Bad Guest Guard","date":"2026-05-12","votes":1}
+{"id":"1144798","slug":"zentrodata-your-bank-your-sheet-done","name":"ZentroData: Your bank. Your Sheet. Done.","date":"2026-05-12","votes":1}
+{"id":"1144388","slug":"bold-matrix-vendor-risk-engine","name":"Bold Matrix | Vendor Risk Engine","date":"2026-05-12","votes":1}
+{"id":"1143073","slug":"pollenpal","name":"PollenPal","date":"2026-05-12","votes":1}
+{"id":"1144248","slug":"spentlytics-2","name":"Spentlytics","date":"2026-05-12","votes":1}
+{"id":"1143794","slug":"digi-studio-by-shahid","name":"Digi Studio By Shahid","date":"2026-05-12","votes":1}
+{"id":"1144927","slug":"subremind","name":"SubRemind","date":"2026-05-12","votes":1}
+{"id":"1144823","slug":"grapher-photography-community","name":"Grapher: Photography Community","date":"2026-05-12","votes":1}
+{"id":"1140361","slug":"followloop","name":"Followloop","date":"2026-05-12","votes":1}
+{"id":"1144619","slug":"wasteless-5","name":"WasteLess","date":"2026-05-12","votes":1}
+{"id":"1144046","slug":"cursive-generator-4","name":"Cursive Generator","date":"2026-05-12","votes":1}
+{"id":"1143358","slug":"stakr-2","name":"Stakr","date":"2026-05-12","votes":1}
+{"id":"1144494","slug":"kybele","name":"Kybele","date":"2026-05-12","votes":1}
+{"id":"1143361","slug":"nexus-pro-ai-free-assistant","name":"Nexus Pro Ai ( Free Assistant ) ","date":"2026-05-12","votes":1}
+{"id":"1144342","slug":"tdo-2","name":"TDo","date":"2026-05-12","votes":1}
+{"id":"1144119","slug":"switching-to-digital-bss","name":"Switching to Digital BSS","date":"2026-05-12","votes":1}
+{"id":"1144662","slug":"creativies-app","name":"Creativies App","date":"2026-05-12","votes":1}
+{"id":"1144802","slug":"moonslide","name":"MoonSlide","date":"2026-05-12","votes":1}
+{"id":"1144123","slug":"imagine-b6b77f0a-bb23-49c4-8b4d-1bf66e7bbed2","name":"Imagine ","date":"2026-05-12","votes":1}
+{"id":"1144308","slug":"zyrelyx","name":"Zyrelyx","date":"2026-05-12","votes":1}
+{"id":"1143393","slug":"collade-ai-find-careers-ai-wont-replace","name":"Collade AI: Find Careers AI Wont Replace","date":"2026-05-12","votes":1}
+{"id":"1144367","slug":"cobrai","name":"Cobrai","date":"2026-05-12","votes":1}
+{"id":"1144077","slug":"defatted-black-soldier-fly-powder","name":"Defatted Black Soldier Fly Powder","date":"2026-05-12","votes":1}
+{"id":"1144468","slug":"linkedinoptimizer-co-in","name":"LinkedInOptimizer.co.in","date":"2026-05-12","votes":1}
+{"id":"1140600","slug":"free-copywriting-swipe-file","name":"Free copywriting swipe file","date":"2026-05-12","votes":1}
+{"id":"1142087","slug":"song-bottle","name":"Song Bottle","date":"2026-05-12","votes":1}
+{"id":"1144407","slug":"vivant-infographics","name":"Vivant .infographics","date":"2026-05-12","votes":1}
+{"id":"1143764","slug":"securing-ai-agents","name":"Securing ai agents","date":"2026-05-12","votes":1}
+{"id":"1144355","slug":"try-mac-apps","name":"Try Mac Apps","date":"2026-05-12","votes":1}
+{"id":"1144720","slug":"whop-first-10-sales-sprint-3","name":"Whop First 10 Sales Sprint","date":"2026-05-12","votes":1}
+{"id":"1144681","slug":"https-cyberhealth-guide","name":"https://cyberhealth.guide","date":"2026-05-12","votes":1}
+{"id":"1144124","slug":"listio","name":"Listio","date":"2026-05-12","votes":1}
+{"id":"1144402","slug":"groundr","name":"Groundr","date":"2026-05-12","votes":1}
+{"id":"1144926","slug":"github-38c25096-bfa7-4a40-9a7c-1d12e2ed42e0","name":"GitHub","date":"2026-05-12","votes":1}
+{"id":"1144659","slug":"payremind","name":"PayRemind","date":"2026-05-12","votes":1}
+{"id":"1144158","slug":"watermark-king","name":"WaterMark King","date":"2026-05-12","votes":1}
+{"id":"1144179","slug":"viralprompts-in","name":"ViralPrompts.in","date":"2026-05-12","votes":1}
+{"id":"1132782","slug":"narrowgatex","name":"NarrowGateX","date":"2026-05-12","votes":1}
+{"id":"1143306","slug":"ghostaudit-2","name":"GhostAudit","date":"2026-05-12","votes":1}
+{"id":"1144376","slug":"clik-7558349e-f109-4969-b657-f2a4cebb75b0","name":"Clik","date":"2026-05-12","votes":1}
+{"id":"1144426","slug":"toolcanvas","name":"ToolCanvas","date":"2026-05-12","votes":1}
+{"id":"1144170","slug":"geteasydown","name":"GetEasyDown","date":"2026-05-12","votes":1}
+{"id":"1144502","slug":"the-tantrum-to-calm-guide","name":"The Tantrum-to-Calm Guide","date":"2026-05-12","votes":1}
+{"id":"1144639","slug":"toon-tone-2","name":"Toon Tone","date":"2026-05-12","votes":1}
+{"id":"1144557","slug":"adil-puan-durumu","name":"Adil Puan Durumu","date":"2026-05-12","votes":1}
+{"id":"1144027","slug":"bach-1-0","name":"BACH 1.0","date":"2026-05-12","votes":1}
+{"id":"1144088","slug":"sunpass","name":"SunPass","date":"2026-05-12","votes":1}
+{"id":"1143776","slug":"briefed-3","name":"Briefed","date":"2026-05-12","votes":1}
+{"id":"1142929","slug":"geotag-world","name":"GeoTag.world","date":"2026-05-12","votes":1}
+{"id":"1144920","slug":"best-influencer-marketing-services","name":"Best Influencer Marketing Services","date":"2026-05-12","votes":1}
+{"id":"1144839","slug":"zytoolz","name":"zytoolz","date":"2026-05-12","votes":1}
+{"id":"1144039","slug":"peanut-ai","name":"Peanut AI ","date":"2026-05-12","votes":1}
+{"id":"1143751","slug":"developer-tools","name":"Developer Tools","date":"2026-05-12","votes":1}
+{"id":"1143917","slug":"self-becoming","name":"Self-becoming","date":"2026-05-12","votes":1}
+{"id":"1143625","slug":"fokus-4","name":"Fokus","date":"2026-05-12","votes":1}
+{"id":"1144841","slug":"aura-share","name":"Aura Share","date":"2026-05-12","votes":1}
+{"id":"1142575","slug":"adkick","name":"Adkick","date":"2026-05-12","votes":1}
+{"id":"1143082","slug":"testimo-ai","name":"Testimo AI","date":"2026-05-12","votes":1}
+{"id":"1144341","slug":"gatwick-taxi-transfer","name":"Gatwick Taxi Transfer","date":"2026-05-12","votes":1}
+{"id":"1144808","slug":"centerway-steel","name":"Centerway Steel","date":"2026-05-12","votes":1}
+{"id":"1144763","slug":"contract-review-online","name":"Contract Review Online","date":"2026-05-12","votes":1}
+{"id":"1144492","slug":"temply-quick-text-templates","name":"Temply: Quick Text Templates","date":"2026-05-12","votes":1}
+{"id":"1144312","slug":"ai-and-machine-learning-services","name":"AI and Machine Learning services ","date":"2026-05-12","votes":1}
+{"id":"1144791","slug":"stikro-2","name":"Stikro","date":"2026-05-12","votes":1}
+{"id":"1144114","slug":"its-beautiful-to-customize","name":"Its beautiful to customize ","date":"2026-05-12","votes":1}
+{"id":"1144055","slug":"radarscout","name":"RadarScout","date":"2026-05-12","votes":1}
+{"id":"1144029","slug":"vecbase","name":"Vecbase","date":"2026-05-12","votes":1}
+{"id":"1143710","slug":"inventoryflow","name":"InventoryFlow","date":"2026-05-12","votes":1}
+{"id":"1144118","slug":"reportiful","name":"REPORTIFUL","date":"2026-05-12","votes":1}
+{"id":"1143766","slug":"radiowave","name":"RadioWave","date":"2026-05-12","votes":1}
+{"id":"1144560","slug":"billbeam","name":"BillBeam","date":"2026-05-12","votes":1}
+{"id":"1143765","slug":"contractflow-2","name":"ContractFlow","date":"2026-05-12","votes":1}
+{"id":"1144756","slug":"doeling","name":"Doeling","date":"2026-05-12","votes":1}
+{"id":"1144446","slug":"bncheck","name":"BnCheck","date":"2026-05-12","votes":1}
+{"id":"1144415","slug":"shard-3","name":"SHARD","date":"2026-05-12","votes":1}
+{"id":"1140327","slug":"remind-yu","name":"remind.yu","date":"2026-05-12","votes":1}
+{"id":"1143839","slug":"bulyam-web-studio","name":"Bulyam Web Studio","date":"2026-05-12","votes":1}
+{"id":"1142607","slug":"shieldsync","name":"ShieldSYNC","date":"2026-05-12","votes":1}
+{"id":"1144946","slug":"sabin-enterprises","name":"Sabin Enterprises","date":"2026-05-12","votes":1}
+{"id":"1144208","slug":"img2txt","name":"Img2Txt","date":"2026-05-12","votes":1}
+{"id":"1139141","slug":"budgettripai","name":"BudgetTripAI","date":"2026-05-12","votes":1}
+{"id":"1144278","slug":"voice-generator-ai-unlimited","name":"Voice Generator AI - Unlimited","date":"2026-05-12","votes":1}
+{"id":"1144706","slug":"exprysm","name":"ExPrysm","date":"2026-05-12","votes":1}
+{"id":"1144085","slug":"paipe-initial","name":"paipe initial","date":"2026-05-12","votes":1}
+{"id":"1144356","slug":"redeemfly-get-redeem-code","name":"RedeemFly: Get Redeem Code","date":"2026-05-12","votes":1}
+{"id":"1140884","slug":"dolfin-tools","name":"Dolfin Tools","date":"2026-05-12","votes":0}
+{"id":"1144369","slug":"universal-translator","name":"Universal Translator","date":"2026-05-12","votes":0}
+{"id":"1142797","slug":"miterun","name":"Miterun","date":"2026-05-12","votes":0}
+{"id":"1144541","slug":"solvesim-com","name":"SolveSim.com","date":"2026-05-12","votes":0}
+{"id":"1144435","slug":"runapphot","name":"RunAppHot","date":"2026-05-12","votes":0}
+{"id":"1144909","slug":"mh-connekt","name":"MH Connekt","date":"2026-05-12","votes":0}
+{"id":"1143577","slug":"moneygoal","name":"MoneyGoal","date":"2026-05-12","votes":0}
+{"id":"1144084","slug":"best-answer-engine-optimization","name":"Best Answer Engine Optimization ","date":"2026-05-12","votes":0}
+{"id":"1140574","slug":"the-premium-ai-architect-vault","name":"The Premium AI Architect Vault","date":"2026-05-12","votes":0}
+{"id":"1144034","slug":"oasisfoodprocessing","name":"oasisfoodprocessing","date":"2026-05-12","votes":0}
+{"id":"1121071","slug":"vermietler","name":"Vermietler","date":"2026-05-12","votes":0}
+{"id":"1144251","slug":"calcfree","name":"CalcFree","date":"2026-05-12","votes":0}
+{"id":"1140924","slug":"callnoty","name":"CallNoty","date":"2026-05-12","votes":0}
+{"id":"1144797","slug":"free-background-remover-3","name":"Free Background Remover","date":"2026-05-12","votes":0}
+{"id":"1137718","slug":"cheeru","name":"CheerU","date":"2026-05-12","votes":0}
+{"id":"1144835","slug":"antonlytics","name":"Antonlytics","date":"2026-05-12","votes":0}
+{"id":"1144148","slug":"wildlog-bird-wildlife-log","name":"Wildlog: Bird & Wildlife Log","date":"2026-05-12","votes":0}
+{"id":"1144219","slug":"luxury-flats-with-premium-amenities","name":"Luxury Flats with Premium Amenities","date":"2026-05-12","votes":0}
+{"id":"1144106","slug":"ipm-cat-preparation-online-examnest","name":"IPM & CAT Preparation Online | ExamNest ","date":"2026-05-12","votes":0}
+{"id":"1144271","slug":"pantrino","name":"Pantrino","date":"2026-05-12","votes":0}
+{"id":"1144121","slug":"tabflow-pro","name":"TabFlow Pro","date":"2026-05-12","votes":0}
+{"id":"1144255","slug":"free-gsc-keyword-analyzer","name":"Free GSC Keyword Analyzer","date":"2026-05-12","votes":0}
+{"id":"1144380","slug":"sertus","name":"Sertus","date":"2026-05-12","votes":0}
+{"id":"1142879","slug":"flyclock-automatic-presentation-timer","name":"FlyClock — Automatic Presentation Timer","date":"2026-05-12","votes":0}
+{"id":"1144740","slug":"blaze-your-own-trail-group-coaching","name":"Blaze Your Own Trail Group Coaching ","date":"2026-05-12","votes":0}
+{"id":"1144608","slug":"dastify-digital","name":"Dastify Digital","date":"2026-05-12","votes":0}
+{"id":"1144474","slug":"kg-to-lbs-converter","name":"Kg to Lbs converter","date":"2026-05-12","votes":0}
+{"id":"1140368","slug":"github-ae99da45-bd6d-4d6c-9c43-285c5e271b62","name":"GitHub","date":"2026-05-12","votes":0}
+{"id":"1144900","slug":"launch-360","name":"Launch 360","date":"2026-05-12","votes":0}
+{"id":"1141849","slug":"backlog-zero","name":"Backlog Zero","date":"2026-05-12","votes":0}
+{"id":"1144040","slug":"fintastics","name":"Fintastics ","date":"2026-05-12","votes":0}
+{"id":"1144298","slug":"secusy-asv-scanner","name":"Secusy ASV Scanner","date":"2026-05-12","votes":0}
+{"id":"1144504","slug":"india-gifts-mall-rakhi-to-usa","name":"India Gifts Mall – Rakhi To USA","date":"2026-05-12","votes":0}
+{"id":"1144070","slug":"slashifytech","name":"SlashifyTech","date":"2026-05-12","votes":0}
+{"id":"1144140","slug":"construction-calculators","name":"Construction Calculators","date":"2026-05-12","votes":0}
+{"id":"1144510","slug":"leedfinder","name":"LeedFinder","date":"2026-05-12","votes":0}
+{"id":"1144392","slug":"soctra","name":"SOCTRA","date":"2026-05-12","votes":0}
+{"id":"1144015","slug":"cfcalcolo","name":"CFCalcolo","date":"2026-05-12","votes":0}
+{"id":"1144143","slug":"name-in-other-countries","name":"Name in other countries?","date":"2026-05-12","votes":0}
+{"id":"1144674","slug":"corvi-careers","name":"Corvi Careers","date":"2026-05-12","votes":0}
+{"id":"1143211","slug":"chilloutfox-trading-intelligence","name":"ChilloutFox: Trading Intelligence","date":"2026-05-12","votes":0}
+{"id":"1144103","slug":"hyerbase","name":"Hyerbase","date":"2026-05-12","votes":0}
+{"id":"1144345","slug":"intelligent-carb-juggler","name":"Intelligent Carb Juggler","date":"2026-05-12","votes":0}
+{"id":"1144117","slug":"uptime-scheduler","name":"Uptime Scheduler","date":"2026-05-12","votes":0}
+{"id":"1144885","slug":"salesforce-development-services-company","name":"Salesforce Development Services Company","date":"2026-05-12","votes":0}
+{"id":"1144235","slug":"arklyon-contracts","name":"Arklyon Contracts","date":"2026-05-12","votes":0}
+{"id":"1143487","slug":"hostingsift","name":"HostingSift","date":"2026-05-12","votes":0}
+{"id":"1144508","slug":"vaxyro-startup-execution-os","name":"Vaxyro — Startup Execution OS","date":"2026-05-12","votes":0}
+{"id":"1118097","slug":"journey-to-the-iron-castle","name":"Journey to the Iron Castle","date":"2026-05-12","votes":0}
+{"id":"1142781","slug":"onlyscout","name":"OnlyScout","date":"2026-05-12","votes":0}
+{"id":"1144584","slug":"clearledger360","name":"ClearLedger360","date":"2026-05-12","votes":0}
+{"id":"1142536","slug":"simplyblog","name":"SimplyBlog","date":"2026-05-12","votes":0}
+{"id":"1137664","slug":"no-gout-ai-gout-food-scanner-2","name":"No Gout: AI Gout Food Scanner","date":"2026-05-12","votes":0}
+{"id":"1144437","slug":"aj-s-superstore","name":"AJ’s Superstore","date":"2026-05-12","votes":0}
+{"id":"1142170","slug":"address-agent-by-apitier","name":"Address Agent by APITier","date":"2026-05-12","votes":0}
+{"id":"1118747","slug":"xarchive-bookmark-exporter-manager","name":"XArchive Bookmark Exporter & Manager","date":"2026-05-12","votes":0}
+{"id":"1144212","slug":"nevtan-engage","name":"NevTan Engage","date":"2026-05-12","votes":0}
+{"id":"1144579","slug":"futurofleet-optimization-system","name":"FuTUROFleet Optimization System","date":"2026-05-12","votes":0}
+{"id":"1144270","slug":"receipts-to-recipes","name":"Receipts to Recipes","date":"2026-05-12","votes":0}
+{"id":"1144396","slug":"dafont-style","name":"Dafont Style","date":"2026-05-12","votes":0}
+{"id":"1144755","slug":"gto-performance","name":"GTO Performance","date":"2026-05-12","votes":0}
+{"id":"1143980","slug":"webutilities-me","name":"WebUtilities.me","date":"2026-05-12","votes":0}
+{"id":"1142988","slug":"beeg-video-downloader","name":"Beeg Video Downloader","date":"2026-05-12","votes":0}
+{"id":"1144125","slug":"teckinfo-solutions","name":"Teckinfo Solutions -","date":"2026-05-12","votes":0}
+{"id":"1144233","slug":"collectible-madness","name":"Collectible Madness","date":"2026-05-12","votes":0}
+{"id":"1144469","slug":"fareeqy","name":"Fareeqy | فريقي","date":"2026-05-12","votes":0}
+{"id":"1144044","slug":"flogas-butane-7kg-coughlan-fuels","name":"Flogas – Butane (7kg) - Coughlan Fuels","date":"2026-05-12","votes":0}
+{"id":"1144184","slug":"toolset-me","name":"Toolset.me","date":"2026-05-12","votes":0}
+{"id":"1142862","slug":"luxe-full-stack-php-shopping-system","name":"LUXE  | Full-Stack PHP Shopping System","date":"2026-05-12","votes":0}
+{"id":"1144336","slug":"corporate-cab-booking-gurgaon","name":"Corporate Cab Booking Gurgaon","date":"2026-05-12","votes":0}
+{"id":"1143140","slug":"emojish","name":"Emojish","date":"2026-05-12","votes":0}
+{"id":"1141994","slug":"10-ai-businesses-ideas-in-2026","name":"10 AI Businesses Ideas in 2026","date":"2026-05-12","votes":0}
+{"id":"1144051","slug":"promptshield-3","name":"PromptShield","date":"2026-05-12","votes":0}
+{"id":"1142316","slug":"sme-shadow-ai-compliance-kit","name":"SME Shadow AI Compliance Kit","date":"2026-05-12","votes":0}
+{"id":"1143493","slug":"brain-battle-hub","name":"Brain Battle Hub","date":"2026-05-12","votes":0}
+{"id":"1142317","slug":"halton-meter","name":"Halton Meter","date":"2026-05-12","votes":0}
+{"id":"1141038","slug":"gripop","name":"Gripop","date":"2026-05-12","votes":0}
+{"id":"1139261","slug":"thebenefactor-net","name":"TheBenefactor.Net","date":"2026-05-12","votes":0}
+{"id":"1136644","slug":"sparrow-13","name":"Sparrow","date":"2026-05-12","votes":0}
+{"id":"1142342","slug":"megavol","name":"MegaVol","date":"2026-05-12","votes":0}
+{"id":"1139304","slug":"market-research","name":"Market Research","date":"2026-05-12","votes":0}
+{"id":"1144418","slug":"dutch-bros-nutrition-calculator","name":"Dutch Bros Nutrition Calculator","date":"2026-05-12","votes":0}
+{"id":"1143885","slug":"zero-195ec07f-e2c2-4c07-bacc-72333b9f24b5","name":"Zero","date":"2026-05-12","votes":0}
+{"id":"1142292","slug":"contura-3-0","name":"Contura 3.0","date":"2026-05-12","votes":0}
+{"id":"1143650","slug":"sweettalk-ai","name":"SweetTalk AI","date":"2026-05-12","votes":0}
+{"id":"1144370","slug":"knowstack","name":"KnowStack","date":"2026-05-12","votes":0}
+{"id":"1144050","slug":"cv-labz","name":"CV Labz","date":"2026-05-12","votes":0}
+{"id":"1144452","slug":"doly-poll","name":"DOLY Poll","date":"2026-05-12","votes":0}
+{"id":"1142229","slug":"scrollback-2","name":"Scrollback","date":"2026-05-12","votes":0}
+{"id":"1144254","slug":"chester-springs-dental-exton-pa","name":"Chester Springs Dental | Exton, PA","date":"2026-05-12","votes":0}
+{"id":"1144889","slug":"whalewatch","name":"WhaleWatch","date":"2026-05-12","votes":0}
+{"id":"1144724","slug":"chartableai","name":"ChartableAI","date":"2026-05-12","votes":0}
+{"id":"1144585","slug":"mental-detox-available-in-the-app-store","name":"Mental Detox available in the App Store","date":"2026-05-12","votes":0}
+{"id":"1144032","slug":"orbix-studio-free-templates","name":"Orbix Studio Free Templates","date":"2026-05-12","votes":0}
+{"id":"1143931","slug":"shovld","name":"Shovld","date":"2026-05-12","votes":0}
+{"id":"1144215","slug":"healthcare-app-development","name":"Healthcare App Development","date":"2026-05-12","votes":0}
+{"id":"1144722","slug":"international-tie","name":"International Tie","date":"2026-05-12","votes":0}
+{"id":"1144372","slug":"cv-builder-for-free","name":"CV Builder for Free","date":"2026-05-12","votes":0}
+{"id":"1144043","slug":"packo","name":"packo","date":"2026-05-12","votes":0}
+{"id":"1144438","slug":"bloombridge","name":"BloomBridge","date":"2026-05-12","votes":0}
+{"id":"1144189","slug":"gigmoments","name":"GigMoments","date":"2026-05-12","votes":0}
+{"id":"1144318","slug":"text-to-speech-ai","name":"Text to Speech AI","date":"2026-05-12","votes":0}
+{"id":"1143562","slug":"takeout-studio","name":"Takeout Studio","date":"2026-05-12","votes":0}
+{"id":"1144432","slug":"vibecalc-voice-calculator-for-builders","name":"VibeCalc - Voice Calculator for Builders","date":"2026-05-12","votes":0}
+{"id":"1141639","slug":"pdf-ready-compress-scan-prepare-pdfs","name":"PDF Ready: Compress, scan & prepare PDFs","date":"2026-05-12","votes":0}
+{"id":"1144903","slug":"global-digital-signature-esignature","name":"Global Digital Signature & eSignature","date":"2026-05-12","votes":0}
+{"id":"1144866","slug":"trytools","name":"TryTools","date":"2026-05-12","votes":0}
+{"id":"1144762","slug":"memoryos-2","name":"MemoryOS","date":"2026-05-12","votes":0}
+{"id":"1144837","slug":"leveair","name":"leveair","date":"2026-05-12","votes":0}
+{"id":"1144349","slug":"capiwater","name":"CapiWater","date":"2026-05-12","votes":0}
+{"id":"1144229","slug":"quietude-2","name":"Quiétude","date":"2026-05-12","votes":0}
+{"id":"1144317","slug":"lexicam-ai","name":"LexiCam AI","date":"2026-05-12","votes":0}
+{"id":"1143077","slug":"tyrex-indonesia","name":"Tyrex Indonesia","date":"2026-05-12","votes":0}
+{"id":"1144165","slug":"dividend-income-roaster","name":"Dividend Income Roaster","date":"2026-05-12","votes":0}
+{"id":"1144898","slug":"nimbuz-platform","name":"Nimbuz Platform","date":"2026-05-12","votes":0}
+{"id":"1144048","slug":"phone-doctor-speaker-mic","name":"Phone Doctor: Speaker & Mic","date":"2026-05-12","votes":0}
+{"id":"1144821","slug":"glb","name":"GLB","date":"2026-05-12","votes":0}
+{"id":"1143555","slug":"selfmapp-ai","name":"selfmapp.ai","date":"2026-05-12","votes":0}
+{"id":"1142421","slug":"open-pedia-ai","name":"Open Pedia AI","date":"2026-05-12","votes":0}
+{"id":"1144217","slug":"precision-receipt-ai","name":"Precision Receipt AI","date":"2026-05-12","votes":0}
+{"id":"1144102","slug":"kol-explorer","name":"KOL Explorer","date":"2026-05-12","votes":0}
+{"id":"1144319","slug":"infoswift-corp-solutions","name":"InfoSwift corp Solutions","date":"2026-05-12","votes":0}
+{"id":"1141828","slug":"peekmyip","name":"PeekMyIP","date":"2026-05-12","votes":0}
+{"id":"1144470","slug":"automationpro-ai","name":"AutomationPro AI","date":"2026-05-12","votes":0}
+{"id":"1144760","slug":"valerius-forge-ai-ready-prompt-builder","name":"Valerius Forge - AI Ready Prompt Builder","date":"2026-05-12","votes":0}
+{"id":"1143444","slug":"machine-it-assets-management-system","name":"Machine & IT assets Management System","date":"2026-05-12","votes":0}
+{"id":"1144252","slug":"makro-2","name":"Makro","date":"2026-05-12","votes":0}
+{"id":"1144293","slug":"danny-wall-photography","name":"Danny Wall Photography","date":"2026-05-12","votes":0}
+{"id":"1144169","slug":"compare-life-insurance","name":"Compare Life Insurance","date":"2026-05-12","votes":0}
+{"id":"1144094","slug":"myclaw-trade","name":"MyClaw Trade","date":"2026-05-12","votes":0}
+{"id":"1144568","slug":"rendezvous-2","name":"Rendezvous","date":"2026-05-12","votes":0}
+{"id":"1142052","slug":"roomagic","name":"Roomagic","date":"2026-05-12","votes":0}
+{"id":"1144289","slug":"zouhor","name":"Zouhor","date":"2026-05-12","votes":0}
+{"id":"1144329","slug":"meetscribe-3","name":"MeetScribe","date":"2026-05-12","votes":0}
+{"id":"1143147","slug":"trend-vibeai-viral-growth-tool","name":"Trend VibeAI Viral Growth Tool","date":"2026-05-12","votes":0}
+{"id":"1144868","slug":"rolenavigator-launch","name":"RoleNavigator Launch","date":"2026-05-12","votes":0}
+{"id":"1144833","slug":"rapgenerator-ai","name":"RapGenerator AI","date":"2026-05-12","votes":0}
+{"id":"1144325","slug":"marketing-ai-tools-ai-skynet","name":"Marketing AI Tools - Ai Skynet ","date":"2026-05-12","votes":0}
+{"id":"1144062","slug":"privos","name":"PrivOS","date":"2026-05-12","votes":0}
+{"id":"1144728","slug":"biohost","name":"Biohost","date":"2026-05-12","votes":0}
+{"id":"1144041","slug":"aircm","name":"Aircm","date":"2026-05-12","votes":0}
+{"id":"1144765","slug":"pricing-optimization","name":"Pricing Optimization","date":"2026-05-12","votes":0}
+{"id":"1144805","slug":"flicker-2","name":"Flicker ","date":"2026-05-12","votes":0}
+{"id":"1142722","slug":"magicfridge-your-fridge-finally-smart","name":"MagicFridge  Your fridge, finally smart.","date":"2026-05-12","votes":0}
+{"id":"1144303","slug":"chat-line-online","name":"Chat Line OnLine","date":"2026-05-12","votes":0}
+{"id":"1144575","slug":"calorieai-2","name":"CalorieAI","date":"2026-05-12","votes":0}
+{"id":"1142720","slug":"wooapdf","name":"WooaPDF","date":"2026-05-12","votes":0}
+{"id":"1143660","slug":"sealvo","name":"Sealvo","date":"2026-05-12","votes":0}
+{"id":"1144442","slug":"premium-bts-keep-swimming-blue-jacket","name":"Premium BTS Keep Swimming Blue Jacket","date":"2026-05-12","votes":0}
+{"id":"1144526","slug":"mindkeepr","name":"MindKeepr","date":"2026-05-12","votes":0}
+{"id":"1144873","slug":"trueuser","name":"TrueUser","date":"2026-05-12","votes":0}
+{"id":"1139705","slug":"geo-audit","name":"GEO Audit","date":"2026-05-12","votes":0}
+{"id":"1144082","slug":"evidencedesk-modern-case-management","name":"EvidenceDesk — Modern Case Management","date":"2026-05-12","votes":0}
+{"id":"1144035","slug":"rcs-roblox","name":"RCS: Roblox","date":"2026-05-12","votes":0}
+{"id":"1144670","slug":"daylyze","name":"DayLyze","date":"2026-05-12","votes":0}
+{"id":"1143953","slug":"nutralist","name":"NutraList","date":"2026-05-12","votes":0}
+{"id":"1140935","slug":"songgifted-com","name":"SongGifted.com","date":"2026-05-12","votes":0}
+{"id":"1143232","slug":"punchprofit","name":"PunchProfit","date":"2026-05-12","votes":0}
+{"id":"1143711","slug":"echo-18e07db6-8e8d-4207-aeb1-eb770865ef95","name":"Echo","date":"2026-05-12","votes":0}
+{"id":"1144099","slug":"productscenes","name":"ProductScenes","date":"2026-05-12","votes":0}
+{"id":"1143345","slug":"bloombrick","name":"BloomBrick","date":"2026-05-12","votes":0}
+{"id":"1144829","slug":"mempra","name":"Mempra","date":"2026-05-12","votes":0}
+{"id":"1143012","slug":"alphadtfgen-com","name":"AlphaDTFGen.com","date":"2026-05-12","votes":0}
+{"id":"1141368","slug":"idea-forge-2","name":"Idea Forge","date":"2026-05-12","votes":0}
+{"id":"1144295","slug":"seoaxe-live-seo-audit-and-aeo-guidance","name":"SEOaxe - Live SEO Audit and AEO Guidance","date":"2026-05-12","votes":0}
+{"id":"1144315","slug":"shoppilot","name":"ShopPilot","date":"2026-05-12","votes":0}
+{"id":"1144394","slug":"nuvex","name":"Nuvex","date":"2026-05-12","votes":0}
+{"id":"1144817","slug":"model-un-diplomatic-simulation","name":"Model UN — Diplomatic Simulation","date":"2026-05-12","votes":0}
+{"id":"1144111","slug":"wandr-6","name":"Wandr","date":"2026-05-12","votes":0}
+{"id":"1141422","slug":"thisnumber","name":"ThisNumber","date":"2026-05-12","votes":0}
+{"id":"1144031","slug":"riso-buddy","name":"Riso Buddy","date":"2026-05-12","votes":0}
+{"id":"1144174","slug":"pace-advisory-group-2","name":"Pace Advisory Group","date":"2026-05-12","votes":0}
+{"id":"1144766","slug":"minora-ai","name":"Minora AI","date":"2026-05-12","votes":0}
+{"id":"1144092","slug":"avn-treatment-without-surgery","name":"AVN Treatment Without Surgery","date":"2026-05-12","votes":0}
+{"id":"1144398","slug":"ava-infotek","name":"AVA Infotek","date":"2026-05-12","votes":0}
+{"id":"1144377","slug":"barhin-3","name":"BARHIN","date":"2026-05-12","votes":0}
+{"id":"1144175","slug":"gpt-realtime-2","name":"Gpt-Realtime-2","date":"2026-05-12","votes":0}
+{"id":"1144324","slug":"arun-plus-tmt","name":"Arun Plus TMT","date":"2026-05-12","votes":0}
+{"id":"1144306","slug":"minibay","name":"MiniBay","date":"2026-05-12","votes":0}
+{"id":"1144166","slug":"ytd-app","name":"YTD.APP","date":"2026-05-12","votes":0}
+{"id":"1144448","slug":"starbucksfoodcalculator","name":"starbucksfoodcalculator","date":"2026-05-12","votes":0}
+{"id":"1144455","slug":"seo-autopilot","name":"SEO Autopilot","date":"2026-05-12","votes":0}
+{"id":"1144399","slug":"ai-anime-pro","name":"AI Anime Pro","date":"2026-05-12","votes":0}
+{"id":"1144071","slug":"comparememecap","name":"CompareMemeCap","date":"2026-05-12","votes":0}
+{"id":"1144495","slug":"wisegen-2","name":"WiseGen","date":"2026-05-12","votes":0}
+{"id":"1144536","slug":"backstop","name":"Backstop","date":"2026-05-12","votes":0}
+{"id":"1144262","slug":"atlassian-cli","name":"atlassian-cli","date":"2026-05-12","votes":0}
+{"id":"1144243","slug":"recova","name":"Recova","date":"2026-05-12","votes":0}
+{"id":"1144529","slug":"lovepdfguard","name":"LovePDFGuard","date":"2026-05-12","votes":0}
+{"id":"1144156","slug":"bookplan","name":"Bookplan","date":"2026-05-12","votes":0}
+{"id":"1144956","slug":"adevss-seo-growth-kit","name":"ADevss SEO Growth Kit","date":"2026-05-12","votes":0}
+{"id":"1144521","slug":"wachtime","name":"Wachtime","date":"2026-05-12","votes":0}
+{"id":"1144500","slug":"chrooniq","name":"Chrooniq","date":"2026-05-12","votes":0}
+{"id":"1143584","slug":"bottleneck-calculator-8","name":"Bottleneck Calculator","date":"2026-05-12","votes":0}
+{"id":"1143374","slug":"rezivo-ai","name":"Rezivo AI","date":"2026-05-12","votes":0}
+{"id":"1127795","slug":"proposaldesk","name":"ProposalDesk","date":"2026-05-12","votes":0}
+{"id":"1144067","slug":"smart-marketing-real-results","name":"Smart Marketing, Real Results","date":"2026-05-12","votes":0}
+{"id":"1144054","slug":"built-5-free-finance-calculators","name":"Built 5 free finance calculators","date":"2026-05-12","votes":0}
+{"id":"1144264","slug":"the-primeshark","name":"The PrimeShark","date":"2026-05-12","votes":0}
+{"id":"1144773","slug":"imagetools-3","name":"ImageTools","date":"2026-05-12","votes":0}
+{"id":"1121288","slug":"ranx-2","name":"Ranx","date":"2026-05-12","votes":0}
+{"id":"1144334","slug":"vesselmanager","name":"VesselManager","date":"2026-05-12","votes":0}
+{"id":"1144269","slug":"dnatravel","name":"DNATravel","date":"2026-05-12","votes":0}
+{"id":"1144284","slug":"settle-move-abroad","name":"Settle : Move Abroad","date":"2026-05-12","votes":0}
+{"id":"1132300","slug":"modcore-extension-manager","name":"modcore Extension Manager","date":"2026-05-12","votes":0}
+{"id":"1144408","slug":"google-chrome-84","name":"Google Chrome","date":"2026-05-12","votes":0}
+{"id":"1143261","slug":"sendphoto","name":"SendPhoto","date":"2026-05-12","votes":0}
+{"id":"1141268","slug":"viewlytics","name":"viewlytics","date":"2026-05-12","votes":0}
+{"id":"1144507","slug":"mortgage-recast-calculator-3","name":"Mortgage Recast Calculator","date":"2026-05-12","votes":0}
+{"id":"1127572","slug":"virusis","name":"virusis","date":"2026-05-12","votes":0}
+{"id":"1144496","slug":"dr-dictins","name":"Dr dictins","date":"2026-05-12","votes":0}
+{"id":"1144291","slug":"icklist","name":"Icklist ","date":"2026-05-12","votes":0}
+{"id":"1144078","slug":"all-cotton-and-linen","name":"All Cotton and Linen","date":"2026-05-12","votes":0}
+{"id":"1144058","slug":"medviva-coach","name":"MedViva Coach","date":"2026-05-12","votes":0}
+{"id":"1144428","slug":"dealsforge","name":"DealsForge","date":"2026-05-12","votes":0}
+{"id":"1144758","slug":"invisible-text-generator-2","name":"Invisible Text Generator","date":"2026-05-12","votes":0}
+{"id":"1143876","slug":"scriptai","name":"ScriptAI","date":"2026-05-12","votes":0}
+{"id":"1144416","slug":"fianchetto-cc","name":"fianchetto.cc","date":"2026-05-12","votes":0}
+{"id":"1144410","slug":"vlc-media-player-3-0-23","name":"VLC Media Player 3.0.23","date":"2026-05-12","votes":0}
+{"id":"1144870","slug":"bigtranscribe","name":"BigTranscribe","date":"2026-05-12","votes":0}
+{"id":"1144894","slug":"rawla-sarkar","name":"Rawla Sarkar","date":"2026-05-12","votes":0}
+{"id":"1144285","slug":"allview-india-8","name":"Allview India","date":"2026-05-12","votes":0}
+{"id":"1144321","slug":"mainland-company-formation-in-dubai-uae","name":"Mainland Company Formation In Dubai, UAE","date":"2026-05-12","votes":0}
+{"id":"1143499","slug":"let-s-visit-morocco","name":"Let's Visit Morocco","date":"2026-05-12","votes":0}
+{"id":"1141508","slug":"dayprint-screen-time-audit","name":"Dayprint - Screen Time Audit","date":"2026-05-12","votes":0}
+{"id":"1144709","slug":"vplan-ar","name":"vPlan AR","date":"2026-05-12","votes":0}
+{"id":"1144180","slug":"nesheli-t-shirt-bedrukken","name":"Nesheli t-shirt bedrukken","date":"2026-05-12","votes":0}
+{"id":"1144790","slug":"find-a-jew","name":"Find-a-Jew","date":"2026-05-12","votes":0}
+{"id":"1144393","slug":"mindmilker","name":"MindMilker","date":"2026-05-12","votes":0}
+{"id":"1144879","slug":"bloom-vocal","name":"Bloom Vocal","date":"2026-05-12","votes":0}
+{"id":"1144669","slug":"helqora","name":"Helqora","date":"2026-05-12","votes":0}
+{"id":"1144191","slug":"dealvoice","name":"DealVoice","date":"2026-05-12","votes":0}
+{"id":"1144249","slug":"call-monitoring-software-callyzer","name":"Call Monitoring Software - Callyzer","date":"2026-05-12","votes":0}
