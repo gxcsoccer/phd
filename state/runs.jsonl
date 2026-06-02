@@ -24,3 +24,4 @@
 {"date":"2026-05-27","processedAt":"2026-05-29T02:06:17.606Z","force":false,"rerun":false,"summary":{"rawPosts":800,"uniquePosts":629,"new":628,"relaunch":0,"skipped":1,"intraDayDupes":171}}
 {"date":"2026-05-28","processedAt":"2026-05-30T02:05:37.796Z","force":false,"rerun":false,"summary":{"rawPosts":683,"uniquePosts":576,"new":576,"relaunch":0,"skipped":0,"intraDayDupes":107}}
 {"date":"2026-05-30","processedAt":"2026-06-01T02:05:46.070Z","force":false,"rerun":false,"summary":{"rawPosts":471,"uniquePosts":390,"new":390,"relaunch":0,"skipped":0,"intraDayDupes":81}}
+{"date":"2026-05-31","processedAt":"2026-06-02T02:05:33.601Z","force":false,"rerun":false,"summary":{"rawPosts":413,"uniquePosts":352,"new":352,"relaunch":0,"skipped":0,"intraDayDupes":61}}
