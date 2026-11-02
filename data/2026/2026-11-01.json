@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-01",
+  "timezone": "America/Los_Angeles",
+  "postedAfter": "2026-11-01T08:00:00.000Z",
+  "postedBefore": "2026-11-02T08:00:00.000Z",
+  "fetchedAt": "2026-11-02T23:20:56.980Z",
+  "count": 1,
+  "posts": [
+    {
+      "id": "1299308",
+      "name": "AI Manga Translator",
+      "tagline": "Translate full manga pages with text back in the bubbles",
+      "description": "Upload a Japanese manga, Korean manhwa or Chinese comic page and get a translated image with the dialogue placed back on the page, instead of copying bubbles one by one. Translate a single page, queue up to 20 pages, convert a CBZ or ZIP chapter, or use the Chrome extension on the page you're reading. 1 credit is 1 page, failed pages are refunded, and one-time packs never expire.",
+      "slug": "ai-manga-translator-8",
+      "url": "https://www.producthunt.com/products/ai-manga-translator-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+phd+%28ID%3A+282221%29",
+      "website": "https://www.producthunt.com/r/GIBZPWQACUCO7P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+phd+%28ID%3A+282221%29",
+      "votesCount": 0,
+      "commentsCount": 1,
+      "createdAt": "2026-11-02T00:01:00Z",
+      "featuredAt": null,
+      "thumbnail": {
+        "type": "image",
+        "url": "https://ph-files.imgix.net/e97a7a54-b8ee-4a1e-bef0-198b2e9b93d3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "id": "209",
+              "name": "Languages",
+              "slug": "languages"
+            }
+          },
+          {
+            "node": {
+              "id": "221",
+              "name": "Comics & Graphic Novels",
+              "slug": "comics-graphic-novels"
+            }
+          },
+          {
+            "node": {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          }
+        ]
+      },
+      "makers": [
+        {
+          "id": "8686210",
+          "name": "lyric li",
+          "username": "lyric_li",
+          "headline": "building Ai tools and simple tools",
+          "twitterUsername": null
+        }
+      ],
+      "productLinks": [
+        {
+          "type": "Website",
+          "url": "https://www.producthunt.com/r/GIBZPWQACUCO7P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+phd+%28ID%3A+282221%29"
+        }
+      ]
+    }
+  ]
+}
